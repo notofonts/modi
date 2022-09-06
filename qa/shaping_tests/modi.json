@@ -7,7 +7,7 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Nya.half=0+495",
+            "expectation": "Nya=0+736|Virama=0@-34,-30+0",
             "input": "𑘗𑘿",
             "note": "Issue #1309",
             "only": "NotoSansModi-Regular.ttf"
