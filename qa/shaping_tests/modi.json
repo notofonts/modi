@@ -7,12 +7,6 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Yaa=0+810|Ya=2+648|Repha=2@22,4+0|AA_dv=2+240",
-            "input": "𑘧𑘰𑘨𑘿𑘧𑘰",
-            "note": "Issue #1352",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
             "expectation": "Nya=0+736|Virama=0@-34,-30+0",
             "input": "𑘗𑘿",
             "note": "Issue #1309",
