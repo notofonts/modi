@@ -3,7 +3,7 @@
 classes = (
 {
 code = "Ba Bha Ca Cha Da Dda Ddha Dha Ga Gha Ha Ja Jha Ka Kha La Lla Ma Na Nga Nna Nya Pa Pha Sa Sha Ssa Ta Tha Tta Ttha Va Ya";
-name = class1;
+name = consonants;
 },
 {
 code = "Ca Cha Da Ddha Dha Kha Nga Pa Sa Tha";
@@ -56,6 +56,10 @@ name = class27;
 {
 code = "Baa Bha Bhaa DNyaa DNyu Guu Jaa Jha Jhaa Ju KSsYa KSsa Ka Kaa Khaa Ku Ma Maa Muu Naa Nu Nya Nyaa Pha Phaa Phu RKa Sha Ta Ttaa Tthaa Vaa Yaa";
 name = class29;
+},
+{
+code = "A_iv AA_iv I_iv II_iv U_iv UU_iv VocR_iv VocRR_iv VocL_iv VocLL_iv E_iv AI_iv O_iv AU_iv ";
+name = IndependentVowels;
 }
 );
 copyright = "Copyright 2018-2022 Google Inc. All Rights Reserved.";
@@ -376,7 +380,7 @@ code = "lookup DecomposeAOU;\012lookup ChainedContextualGSUB6;\012\012lookup Con
 name = calt;
 },
 {
-code = "lookup ContextualGSUB4 {\012	lookupflag UseMarkFilteringSet [Virama];\012    ignore sub @class1' Virama' Ra';\012    sub Ka' Virama' @class1 by Ka.half;\012    sub Kha' Virama' @class1 by Kha.half;\012    sub Ga' Virama' @class1 by Ga.half;\012    sub Gha' Virama' @class1 by Gha.half;\012    sub Nga' Virama' @class1 by Nga.half;\012    sub Ca' Virama' @class1 by Ca.half;\012    sub Cha' Virama' @class1 by Cha.half;\012    sub Ja' Virama' @class1 by Ja.half;\012    sub Jha' Virama' @class1 by Jha.half;\012    sub Nya' Virama' @class1 by Nya.half;\012    sub Tta' Virama' @class1 by Tta.half;\012    sub Ttha' Virama' @class1 by Ttha.half;\012    sub Dda' Virama' @class1 by Dda.half;\012    sub Ddha' Virama' @class1 by Ddha.half;\012    sub Nna' Virama' @class1 by Nna.half;\012    sub Ta' Virama' @class1 by Ta.half;\012    sub Tha' Virama' @class1 by Tha.half;\012    sub Da' Virama' @class1 by Da.half;\012    sub Dha' Virama' @class1 by Dha.half;\012    sub Na' Virama' @class1 by Na.half;\012    sub Pa' Virama' @class1 by Pa.half;\012    sub Pha' Virama' @class1 by Pha.half;\012    sub Ba' Virama' @class1 by Ba.half;\012    sub Bha' Virama' @class1 by Bha.half;\012    sub Ma' Virama' @class1 by Ma.half;\012    sub Ya' Virama' @class1 by Ya.half;\012    sub La' Virama' @class1 by La.half;\012    sub Va' Virama' @class1 by Va.half;\012    sub Sha' Virama' @class1 by Sha.half;\012    sub Ssa' Virama' @class1 by Ssa.half;\012    sub Sa' Virama' @class1 by Sa.half;\012    sub Ha' Virama' @class1 by Ha.half;\012    sub Lla' Virama' @class1 by Lla.half;\012    sub KSsa' Virama' @class1 by KSsa.half;\012\012} ContextualGSUB4;\012";
+code = "@bases = [@consonants @IndependentVowels]; # Anything else?\012\012lookup ContextualGSUB4 {\012	lookupflag UseMarkFilteringSet [Virama];\012	ignore sub @bases' Virama' Ra';\012    sub Ka' Virama' @bases by Ka.half;\012    sub Kha' Virama' @bases by Kha.half;\012    sub Ga' Virama' @bases by Ga.half;\012    sub Gha' Virama' @bases by Gha.half;\012    sub Nga' Virama' @bases by Nga.half;\012    sub Ca' Virama' @bases by Ca.half;\012    sub Cha' Virama' @bases by Cha.half;\012    sub Ja' Virama' @bases by Ja.half;\012    sub Jha' Virama' @bases by Jha.half;\012    sub Nya' Virama' @bases by Nya.half;\012    sub Tta' Virama' @bases by Tta.half;\012    sub Ttha' Virama' @bases by Ttha.half;\012    sub Dda' Virama' @bases by Dda.half;\012    sub Ddha' Virama' @bases by Ddha.half;\012    sub Nna' Virama' @bases by Nna.half;\012    sub Ta' Virama' @bases by Ta.half;\012    sub Tha' Virama' @bases by Tha.half;\012    sub Da' Virama' @bases by Da.half;\012    sub Dha' Virama' @bases by Dha.half;\012    sub Na' Virama' @bases by Na.half;\012    sub Pa' Virama' @bases by Pa.half;\012    sub Pha' Virama' @bases by Pha.half;\012    sub Ba' Virama' @bases by Ba.half;\012    sub Bha' Virama' @bases by Bha.half;\012    sub Ma' Virama' @bases by Ma.half;\012    sub Ya' Virama' @bases by Ya.half;\012    sub La' Virama' @bases by La.half;\012    sub Va' Virama' @bases by Va.half;\012    sub Sha' Virama' @bases by Sha.half;\012    sub Ssa' Virama' @bases by Ssa.half;\012    sub Sa' Virama' @bases by Sa.half;\012    sub Ha' Virama' @bases by Ha.half;\012    sub Lla' Virama' @bases by Lla.half;\012    sub KSsa' Virama' @bases by KSsa.half;\012\012} ContextualGSUB4;\012";
 name = half;
 },
 {
