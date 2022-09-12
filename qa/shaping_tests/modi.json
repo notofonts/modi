@@ -1,6 +1,12 @@
 {
     "tests": [
         {
+            "input": "𑘟𑘿𑘗𑘟𑘿𑘡",
+            "expectation": "Da.half=0+400|Nya=2+736|DNa=3+728",
+            "note": "#4",
+            "only": "NotoSansModi-Regular.ttf"
+        },
+        {
             "input": "𑘧𑘰𑘨𑘿𑘧𑘰",
             "expectation": "Yaa=0+810|Yaa=2+810|Repha=2@-16,4+0",
             "note": "#2",
