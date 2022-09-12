@@ -1,6 +1,12 @@
 {
     "tests": [
         {
+            "input": "𑘎𑘰𑘨𑘰𑘎𑘨𑘰𑘎𑘰𑘨𑘱",
+            "expectation": "KaaRa=0+600|AA_dv=0+240|KaRa=4+436|AA_dv=4+240|KaaRa=7+600|I_dv=7+240",
+            "note": "#6",
+            "only": "NotoSansModi-Regular.ttf"
+        },
+        {
             "input": "𑘟𑘿𑘗𑘟𑘿𑘡",
             "expectation": "Da.half=0+400|Nya=2+736|DNa=3+728",
             "note": "#4",
@@ -34,18 +40,6 @@
             "expectation": "Kha=0+694|Rakar=0@-232,101+0|Ta.half=3+282|Kha=5+694|Vattu=5@-130,60+0",
             "input": "𑘏𑘿𑘨𑘝𑘿𑘏𑘿𑘨",
             "note": "Issue #1692",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "Kaa=0+810|Ra.alt=2+517|AA_dv=2+240|KaRa=4+436|AA_dv=4+240|KaaRa=7+600|I_dv=7+240",
-            "input": "𑘎𑘰𑘨𑘰𑘎𑘨𑘰𑘎𑘰𑘨𑘱",
-            "note": "Issue #1735",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "DNya=0+728|Da.half=3+400|Na=5+658",
-            "input": "𑘟𑘿𑘗𑘟𑘿𑘡",
-            "note": "Issue #1690",
             "only": "NotoSansModi-Regular.ttf"
         },
         {
@@ -283,21 +277,15 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Ru=0+631|Ga.half=2+385|VocRR_iv=4+835|Anusvara=4@-218,38+0|Dda=6+630|E_dv=6@-167,5+0|Ha.half=8+633",
-            "input": "𑘨𑘳𑘐𑘿𑘇𑘽𑘚𑘹𑘮𑘿",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
             "expectation": "Lla=0+782|VocLL_dv=0@-190,-30+0|Ha=2+633|I_dv=2+240|Ra.alt3=4+200|O_iv=5+735|Ardhacandra=5@-288,208+0|Lla=7+782|II.lg=7+326|La.alt=9+460|UU.alt1=9+622",
             "input": "𑘯𑘸𑘮𑘱𑘨𑘌𑙀𑘯𑘲𑘩𑘴",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Ja=0+618|Repha=0@69,4+0|U_dv=0@-96,-30+0|DblDanda=4+460|Ra.alt6=5+200",
+            "expectation": "Ju=0+686|Repha=0+0|DblDanda=4+460|Ra.alt6=5+200",
             "input": "𑘨𑘿𑘕𑘳𑙂𑘨",
-            "note": "Added by SIESTA",
+            "note": "Added by SIESTA, changed by #2",
             "only": "NotoSansModi-Regular.ttf"
         },
         {
@@ -331,12 +319,6 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Pa=0+714|Repha=0@-37,4+0|U_dv=0@-100,-30+0|Sa.half=4+340|Ja=6+618|VocL_dv=6@-51,-30+0",
-            "input": "𑘨𑘿𑘢𑘳𑘭𑘿𑘕𑘷",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
             "expectation": "Li=0+546|Ra=2+570|Ma=3+646|Ddha=4+574|I.med=4@-30,0+210|Nu=6+686|Sha=8+606|VocR_dv=8@-17,50+0",
             "input": "𑘩𑘱𑘨𑘦𑘛𑘱𑘡𑘳𑘫𑘵",
             "note": "Added by SIESTA",
@@ -345,12 +327,6 @@
         {
             "expectation": "Ju=0+686|UU_iv=2+742|Anusvara=2@-57,78+0|Phaa=4+998|Na.half=6+540|Da=8+642|Ka=9+655|Sha=10+606",
             "input": "𑘕𑘳𑘅𑘽𑘣𑘰𑘡𑘿𑘟𑘎𑘫",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "Pa=0+714|Ardhacandra=0@-357,6+0|Ku=2+1176|Sa=4+648|Ardhacandra=4@-324,6+0|II_dv=4+326|uni25CC=4+594|Ardhacandra=4@-297,-38+0|Gha=8+636|Ra.alt3=9+200",
-            "input": "𑘢𑙀𑘎𑘴𑘭𑙀𑘲𑙀𑘑𑘨",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
@@ -367,20 +343,8 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "RKa=0+1055|Pa.alt=2+587|U_dv=2@-1,50+0|Pa.half=4+370",
-            "input": "𑘎𑘵𑘢𑘳𑘢𑘿",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
             "expectation": "uni25CC=0+594|E_dv=0@-165,-78+0|Ta=2+532|Ardhacandra=2@-205,6+0|Ka=4+655|Nya=5+736|Ddha=6+574|II.med=6@-40,0+286",
             "input": "◌𑘹𑘝𑙀𑘎𑘗𑘛𑘲",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "Dda=0+630|VocL_dv=0@-70,-30+0|Ja=2+618|VocL_dv=2@-51,-30+0|Sa=4+648|VocL_dv=4@-121,-30+0|Dha=6+673|VocL_dv=6@-135,-30+0|Ssa.half=8+390",
-            "input": "𑘚𑘷𑘕𑘷𑘭𑘷𑘠𑘷𑘬𑘿",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
@@ -403,12 +367,6 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Sa=0+648|II.med=0+326|Ca=2+645|AA_dv.alt=2+205|E_dv=2@-180,5+0|Ttha.half=4+554",
-            "input": "𑘭𑘲𑘓𑘻𑘙𑘿",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
             "expectation": "Tta=0+554|U_dv=0@-113,-30+0|Da=2+642|Ka=3+655|Ya=4+648|Ka=5+655|Pa=6+714|AA_dv=6+240|Sa=8+648|E_dv=8@-124,5+0|Ka=10+655|VocL_dv=10@-114,-30+0",
             "input": "𑘘𑘴𑘟𑘎𑘧𑘎𑘢𑘰𑘭𑘹𑘎𑘷",
             "note": "Added by SIESTA",
@@ -427,12 +385,6 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "La=0+622|Rakar=0@-222,94+0|Muu=3+815|Ttha=5+554|Anusvara=5@-112,38+0|Ca.half=7+600",
-            "input": "𑘩𑘿𑘨𑘦𑘴𑘙𑘽𑘓𑘿",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
             "expectation": "La.half=0+460|KaRa=2+436|AA_dv=2+240|Sa.alt=5+373|UU.alt1=5+622|Nya=7+736|Ra.alt4=8+420|Ku=9+1176",
             "input": "𑘩𑘿𑘎𑘨𑘰𑘭𑘴𑘗𑘨𑘎𑘴",
             "note": "Added by SIESTA",
@@ -447,12 +399,6 @@
         {
             "expectation": "Jaa=0+746|Va=2+631|I_dv=2+240|Ra.alt3=4+200|Li=5+546",
             "input": "𑘕𑘰𑘪𑘱𑘨𑘩𑘱",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "Ga.half=0+385|Kha=2+694|VocLL_dv=2@-136,-30+0|VocR_iv=4+795|Anusvara=4@-175,38+0|Nna.half=6+515",
-            "input": "𑘐𑘿𑘏𑘸𑘆𑘽𑘜𑘿",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
