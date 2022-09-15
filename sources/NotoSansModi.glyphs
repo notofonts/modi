@@ -373,7 +373,7 @@ code = "lookup ContextualGSUB13 {\012    lookupflag MarkAttachmentType @markAtta
 name = ContextualGSUB13;
 },
 {
-code = "lookup FormRakar { sub Virama Ra by Rakar; } FormRakar;\012\012lookup ChainedContextualGSUB22 {\012    lookupflag 0;\012    ;\012    # Original source: 21 \012    sub II_dv Ra' by Ra.alt5;\012    sub @class26 @class27 Virama' Ra' by Vattu;\012    sub @class26 @class29 Virama' Ra' by Vattu;\012    sub @class27 Virama' lookup FormRakar Ra';\012    sub @class29 Virama' Ra' by Rakar.alt;\012    sub [Tha Pa Ma Ya]' lookup AlternateForms Virama' lookup FormRakar Ra';\012} ChainedContextualGSUB22;\012";
+code = "lookup FormRakar { sub Virama Ra by Rakar; } FormRakar;\012\012lookup ChainedContextualGSUB22 {\012    lookupflag 0;\012    ;\012    # Original source: 21 \012    sub II_dv Ra' by Ra.alt5;\012\012	# This is buggy, according to #5?\012    #sub @class26 @class27 Virama' Ra' by Vattu;\012\012    sub @class26 @class29 Virama' Ra' by Vattu;\012    sub @class27 Virama' lookup FormRakar Ra';\012    sub @class29 Virama' Ra' by Rakar.alt;\012    sub [Tha Pa Ma Ya]' lookup AlternateForms Virama' lookup FormRakar Ra';\012} ChainedContextualGSUB22;\012";
 name = ChainedContextualGSUB22;
 },
 {
