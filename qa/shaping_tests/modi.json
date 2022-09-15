@@ -37,9 +37,9 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Kha=0+694|Rakar=0@-232,101+0|Ta.half=3+282|Kha=5+694|Vattu=5@-130,60+0",
+            "expectation": "Kha=0+694|Rakar=0@-232,101+0|Ta.half=3+282|Kha=5+694|Rakar=5@-232,101+0",
             "input": "𑘏𑘿𑘨𑘝𑘿𑘏𑘿𑘨",
-            "note": "Issue #1692",
+            "note": "Issue #5",
             "only": "NotoSansModi-Regular.ttf"
         },
         {
@@ -219,12 +219,6 @@
         {
             "expectation": "uni25CC=0+594|VocLL_dv=0@-151,30+0|Ta=2+532|Ardhacandra=2@-205,6+0|Ka=4+655|Da=5+642|Lla=6+782|Ardhacandra=6@-391,6+0",
             "input": "◌𑘸𑘝𑙀𑘎𑘟𑘯𑙀",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "Dha=0+673|Rakar=0@-218,95+0|Ga.half=3+385|Ha=5+633|Vattu=5@-114,60+0|Va=8+631|Ardhacandra=8@-316,6+0",
-            "input": "𑘠𑘿𑘨𑘐𑘿𑘮𑘿𑘨𑘪𑙀",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
@@ -475,14 +469,8 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Ma.half=0+350|Nga=2+660|Vattu=2@-95,60+0|Ca=5+645|VocLL_dv=5@-120,-30+0",
+            "expectation": "Ma.half=0+350|Nga=2+660|Rakar=2@-229,94+0|Ca=5+645|VocLL_dv=5@-120,-30+0",
             "input": "𑘦𑘿𑘒𑘿𑘨𑘓𑘸",
-            "note": "Added by SIESTA",
-            "only": "NotoSansModi-Regular.ttf"
-        },
-        {
-            "expectation": "Tha=0+834|VocR_dv=0@-184,-30+0|Bhaa=2+975|Tta=4+554|Rakar=4@-191,97+0",
-            "input": "𑘞𑘵𑘥𑘰𑘘𑘿𑘨",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
