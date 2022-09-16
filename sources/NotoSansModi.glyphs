@@ -1,5 +1,8 @@
 {
 .appVersion = "3109";
+DisplayStrings = (
+"/Repha/Nyaa"
+);
 classes = (
 {
 code = "Ba Bha Ca Cha Da Dda Ddha Dha Ga Gha Ha Ja Jha Ka Kha La Lla Ma Na Nga Nna Nya Pa Pha Sa Sha Ssa Ta Tha Tta Ttha Va Ya";
@@ -307,6 +310,10 @@ value = (
 );
 },
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = description;
 value = "Designed by Monotype design team.";
 },
@@ -329,10 +336,6 @@ value = "Noto is a trademark of Google Inc.";
 {
 name = versionString;
 value = "Version 2.002";
-},
-{
-name = "Use Typo Metrics";
-value = 1;
 }
 );
 date = "2018-01-22 20:17:43 +0000";
@@ -591,21 +594,13 @@ unicode = 200D;
 },
 {
 glyphname = uni25CC;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:49:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{429, 539}";
-},
-{
-name = Anchor13;
-position = "{406, 669}";
-},
-{
-name = Anchor15;
-position = "{297, 674}";
 },
 {
 name = Anchor3;
@@ -622,6 +617,14 @@ position = "{297, 70}";
 {
 name = Anchor9;
 position = "{297, -20}";
+},
+{
+name = ardhacandra;
+position = "{326, 669}";
+},
+{
+name = nukta;
+position = "{406, 669}";
 }
 );
 layerId = UUID0;
@@ -1300,12 +1303,16 @@ category = Letter;
 },
 {
 glyphname = A_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{636, 718}";
+},
+{
+name = nukta;
 position = "{636, 718}";
 }
 );
@@ -1391,12 +1398,16 @@ category = Letter;
 },
 {
 glyphname = AA_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{610, 718}";
+},
+{
+name = nukta;
 position = "{610, 718}";
 }
 );
@@ -1496,17 +1507,17 @@ category = Letter;
 },
 {
 glyphname = I_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:46:43 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
-position = "{578, 758}";
+name = ardhacandra;
+position = "{319, 880}";
 },
 {
-name = Anchor15;
-position = "{319, 880}";
+name = nukta;
+position = "{578, 758}";
 }
 );
 layerId = UUID0;
@@ -1582,17 +1593,17 @@ category = Letter;
 },
 {
 glyphname = II_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{710, 758}";
 },
 {
-name = Anchor15;
-position = "{320, 880}";
+name = nukta;
+position = "{710, 758}";
 }
 );
 layerId = UUID0;
@@ -1681,17 +1692,17 @@ category = Letter;
 },
 {
 glyphname = U_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{682, 758}";
 },
 {
-name = Anchor15;
-position = "{371, 880}";
+name = nukta;
+position = "{682, 758}";
 }
 );
 layerId = UUID0;
@@ -1773,17 +1784,17 @@ category = Letter;
 },
 {
 glyphname = UU_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{685, 758}";
 },
 {
-name = Anchor15;
-position = "{371, 880}";
+name = nukta;
+position = "{685, 758}";
 }
 );
 layerId = UUID0;
@@ -1884,12 +1895,16 @@ category = Letter;
 },
 {
 glyphname = VocR_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{620, 718}";
+},
+{
+name = nukta;
 position = "{620, 718}";
 }
 );
@@ -1999,12 +2014,16 @@ category = Letter;
 },
 {
 glyphname = VocRR_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{617, 718}";
+},
+{
+name = nukta;
 position = "{617, 718}";
 }
 );
@@ -2143,12 +2162,16 @@ category = Letter;
 },
 {
 glyphname = VocL_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{475, 718}";
+},
+{
+name = nukta;
 position = "{475, 718}";
 }
 );
@@ -2226,12 +2249,16 @@ category = Letter;
 },
 {
 glyphname = VocLL_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{475, 718}";
+},
+{
+name = nukta;
 position = "{475, 718}";
 }
 );
@@ -2331,17 +2358,17 @@ category = Letter;
 },
 {
 glyphname = E_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{701, 758}";
 },
 {
-name = Anchor15;
-position = "{485, 900}";
+name = nukta;
+position = "{701, 758}";
 }
 );
 layerId = UUID0;
@@ -2439,17 +2466,17 @@ category = Letter;
 },
 {
 glyphname = AI_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:33:35 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
-position = "{741, 758}";
+name = ardhacandra;
+position = "{461, 900}";
 },
 {
-name = Anchor15;
-position = "{461, 900}";
+name = nukta;
+position = "{741, 758}";
 }
 );
 layerId = UUID0;
@@ -2556,17 +2583,17 @@ category = Letter;
 },
 {
 glyphname = O_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:35:28 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
-position = "{683, 758}";
+name = ardhacandra;
+position = "{447, 920}";
 },
 {
-name = Anchor15;
-position = "{447, 920}";
+name = nukta;
+position = "{683, 758}";
 }
 );
 layerId = UUID0;
@@ -2678,17 +2705,17 @@ category = Letter;
 },
 {
 glyphname = AU_iv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:27:01 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
-position = "{718, 758}";
+name = ardhacandra;
+position = "{427, 900}";
 },
 {
-name = Anchor15;
-position = "{427, 900}";
+name = nukta;
+position = "{718, 758}";
 }
 );
 layerId = UUID0;
@@ -2809,21 +2836,13 @@ category = Letter;
 },
 {
 glyphname = Ka;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:34:29 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{556, 622}";
-},
-{
-name = Anchor13;
-position = "{529, 718}";
-},
-{
-name = Anchor15;
-position = "{327, 718}";
 },
 {
 name = Anchor3;
@@ -2840,6 +2859,14 @@ position = "{447, 90}";
 {
 name = Anchor9;
 position = "{532, -47}";
+},
+{
+name = ardhacandra;
+position = "{327, 718}";
+},
+{
+name = nukta;
+position = "{529, 718}";
 }
 );
 layerId = UUID0;
@@ -2923,21 +2950,13 @@ category = Letter;
 },
 {
 glyphname = Kha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{646, 622}";
-},
-{
-name = Anchor13;
-position = "{534, 718}";
-},
-{
-name = Anchor15;
-position = "{498, 718}";
 },
 {
 name = Anchor3;
@@ -2954,6 +2973,14 @@ position = "{421, 61}";
 {
 name = Anchor9;
 position = "{357, -70}";
+},
+{
+name = ardhacandra;
+position = "{534, 718}";
+},
+{
+name = nukta;
+position = "{534, 718}";
 }
 );
 layerId = UUID0;
@@ -3043,7 +3070,7 @@ category = Letter;
 },
 {
 glyphname = Ga;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -3052,16 +3079,20 @@ name = Anchor11;
 position = "{582, 622}";
 },
 {
-name = Anchor13;
-position = "{537, 718}";
-},
-{
 name = Anchor3;
 position = "{502, 0}";
 },
 {
 name = Anchor7;
 position = "{503, 160}";
+},
+{
+name = ardhacandra;
+position = "{537, 718}";
+},
+{
+name = nukta;
+position = "{537, 718}";
 }
 );
 layerId = UUID0;
@@ -3124,7 +3155,7 @@ category = Letter;
 },
 {
 glyphname = Gha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -3133,16 +3164,20 @@ name = Anchor11;
 position = "{556, 622}";
 },
 {
-name = Anchor13;
-position = "{511, 718}";
-},
-{
 name = Anchor3;
 position = "{476, 0}";
 },
 {
 name = Anchor7;
 position = "{476, 120}";
+},
+{
+name = ardhacandra;
+position = "{511, 718}";
+},
+{
+name = nukta;
+position = "{511, 718}";
 }
 );
 layerId = UUID0;
@@ -3211,17 +3246,13 @@ category = Letter;
 },
 {
 glyphname = Nga;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:45:44 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{556, 622}";
-},
-{
-name = Anchor13;
-position = "{462, 718}";
 },
 {
 name = Anchor3;
@@ -3238,6 +3269,14 @@ position = "{390, 54}";
 {
 name = Anchor9;
 position = "{358, -70}";
+},
+{
+name = ardhacandra;
+position = "{382, 718}";
+},
+{
+name = nukta;
+position = "{462, 718}";
 }
 );
 layerId = UUID0;
@@ -3315,17 +3354,13 @@ category = Letter;
 },
 {
 glyphname = Ca;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{520, 622}";
-},
-{
-name = Anchor13;
-position = "{493, 718}";
 },
 {
 name = Anchor3;
@@ -3342,6 +3377,14 @@ position = "{395, 54}";
 {
 name = Anchor9;
 position = "{382, -70}";
+},
+{
+name = ardhacandra;
+position = "{493, 718}";
+},
+{
+name = nukta;
+position = "{493, 718}";
 }
 );
 layerId = UUID0;
@@ -3406,21 +3449,13 @@ category = Letter;
 },
 {
 glyphname = Cha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{546, 622}";
-},
-{
-name = Anchor13;
-position = "{532, 718}";
-},
-{
-name = Anchor15;
-position = "{348, 718}";
 },
 {
 name = Anchor3;
@@ -3437,6 +3472,14 @@ position = "{383, 54}";
 {
 name = Anchor9;
 position = "{353, -70}";
+},
+{
+name = ardhacandra;
+position = "{532, 718}";
+},
+{
+name = nukta;
+position = "{532, 718}";
 }
 );
 layerId = UUID0;
@@ -3531,21 +3574,13 @@ category = Letter;
 },
 {
 glyphname = Ja;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:32:40 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{585, 622}";
-},
-{
-name = Anchor13;
-position = "{512, 718}";
-},
-{
-name = Anchor15;
-position = "{375, 718}";
 },
 {
 name = Anchor3;
@@ -3562,6 +3597,14 @@ position = "{383, 52}";
 {
 name = Anchor9;
 position = "{365, -70}";
+},
+{
+name = ardhacandra;
+position = "{375, 718}";
+},
+{
+name = nukta;
+position = "{512, 718}";
 }
 );
 layerId = UUID0;
@@ -3593,7 +3636,7 @@ nodes = (
 "506 48 OFFCURVE",
 "506 120 CURVE SMOOTH",
 "506 148 OFFCURVE",
-"480 212 OFFCURVE",
+"481 213 OFFCURVE",
 "437 282 CURVE SMOOTH",
 "413 320 LINE",
 "445 361 OFFCURVE",
@@ -3656,17 +3699,13 @@ category = Letter;
 },
 {
 glyphname = Jha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{631, 622}";
-},
-{
-name = Anchor13;
-position = "{595, 718}";
 },
 {
 name = Anchor3;
@@ -3683,6 +3722,14 @@ position = "{522, 90}";
 {
 name = Anchor9;
 position = "{608, -47}";
+},
+{
+name = ardhacandra;
+position = "{595, 718}";
+},
+{
+name = nukta;
+position = "{595, 718}";
 }
 );
 layerId = UUID0;
@@ -3803,17 +3850,13 @@ category = Letter;
 },
 {
 glyphname = Nya;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:48:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{637, 622}";
-},
-{
-name = Anchor13;
-position = "{600, 718}";
 },
 {
 name = Anchor3;
@@ -3830,6 +3873,14 @@ position = "{519, 90}";
 {
 name = Anchor9;
 position = "{615, -47}";
+},
+{
+name = ardhacandra;
+position = "{520, 718}";
+},
+{
+name = nukta;
+position = "{600, 718}";
 }
 );
 layerId = UUID0;
@@ -3914,17 +3965,13 @@ category = Letter;
 },
 {
 glyphname = Tta;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{458, 622}";
-},
-{
-name = Anchor13;
-position = "{422, 718}";
 },
 {
 name = Anchor3;
@@ -3941,6 +3988,14 @@ position = "{322, 57}";
 {
 name = Anchor9;
 position = "{277, -70}";
+},
+{
+name = ardhacandra;
+position = "{422, 718}";
+},
+{
+name = nukta;
+position = "{422, 718}";
 }
 );
 layerId = UUID0;
@@ -3999,17 +4054,13 @@ category = Letter;
 },
 {
 glyphname = Ttha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{458, 622}";
-},
-{
-name = Anchor13;
-position = "{442, 718}";
 },
 {
 name = Anchor3;
@@ -4026,6 +4077,14 @@ position = "{322, 57}";
 {
 name = Anchor9;
 position = "{277, -70}";
+},
+{
+name = ardhacandra;
+position = "{442, 718}";
+},
+{
+name = nukta;
+position = "{442, 718}";
 }
 );
 components = (
@@ -4046,17 +4105,13 @@ category = Letter;
 },
 {
 glyphname = Dda;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{463, 622}";
-},
-{
-name = Anchor13;
-position = "{472, 718}";
 },
 {
 name = Anchor3;
@@ -4073,6 +4128,14 @@ position = "{401, 54}";
 {
 name = Anchor9;
 position = "{355, -70}";
+},
+{
+name = ardhacandra;
+position = "{472, 718}";
+},
+{
+name = nukta;
+position = "{472, 718}";
 }
 );
 layerId = UUID0;
@@ -4133,21 +4196,13 @@ category = Letter;
 },
 {
 glyphname = Ddha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{385, 622}";
-},
-{
-name = Anchor13;
-position = "{459, 718}";
-},
-{
-name = Anchor15;
-position = "{337, 718}";
 },
 {
 name = Anchor3;
@@ -4164,6 +4219,14 @@ position = "{347, 54}";
 {
 name = Anchor9;
 position = "{289, -70}";
+},
+{
+name = ardhacandra;
+position = "{459, 718}";
+},
+{
+name = nukta;
+position = "{459, 718}";
 }
 );
 layerId = UUID0;
@@ -4231,7 +4294,7 @@ category = Letter;
 },
 {
 glyphname = Nna;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -4240,16 +4303,20 @@ name = Anchor11;
 position = "{641, 622}";
 },
 {
-name = Anchor13;
-position = "{596, 718}";
-},
-{
 name = Anchor3;
 position = "{561, 0}";
 },
 {
 name = Anchor7;
 position = "{561, 120}";
+},
+{
+name = ardhacandra;
+position = "{596, 718}";
+},
+{
+name = nukta;
+position = "{596, 718}";
 }
 );
 layerId = UUID0;
@@ -4323,17 +4390,13 @@ category = Letter;
 },
 {
 glyphname = Ta;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:34:03 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{452, 622}";
-},
-{
-name = Anchor13;
-position = "{407, 718}";
 },
 {
 name = Anchor3;
@@ -4346,6 +4409,14 @@ position = "{296, -80}";
 {
 name = Anchor7;
 position = "{372, 80}";
+},
+{
+name = ardhacandra;
+position = "{327, 718}";
+},
+{
+name = nukta;
+position = "{407, 718}";
 }
 );
 layerId = UUID0;
@@ -4388,7 +4459,7 @@ category = Letter;
 },
 {
 glyphname = Tha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -4397,12 +4468,16 @@ name = Anchor11;
 position = "{702, 622}";
 },
 {
-name = Anchor13;
+name = Anchor3;
+position = "{507, -80}";
+},
+{
+name = ardhacandra;
 position = "{669, 718}";
 },
 {
-name = Anchor3;
-position = "{507, -80}";
+name = nukta;
+position = "{669, 718}";
 }
 );
 layerId = UUID0;
@@ -4504,21 +4579,13 @@ category = Letter;
 },
 {
 glyphname = Da;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{516, 622}";
-},
-{
-name = Anchor13;
-position = "{485, 718}";
-},
-{
-name = Anchor15;
-position = "{321, 718}";
 },
 {
 name = Anchor3;
@@ -4535,6 +4602,14 @@ position = "{374, 54}";
 {
 name = Anchor9;
 position = "{331, -70}";
+},
+{
+name = ardhacandra;
+position = "{485, 718}";
+},
+{
+name = nukta;
+position = "{485, 718}";
 }
 );
 layerId = UUID0;
@@ -4604,21 +4679,13 @@ category = Letter;
 },
 {
 glyphname = Dha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:35:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{544, 622}";
-},
-{
-name = Anchor13;
-position = "{515, 718}";
-},
-{
-name = Anchor15;
-position = "{336, 718}";
 },
 {
 name = Anchor3;
@@ -4635,6 +4702,14 @@ position = "{414, 55}";
 {
 name = Anchor9;
 position = "{374, -70}";
+},
+{
+name = ardhacandra;
+position = "{336, 718}";
+},
+{
+name = nukta;
+position = "{515, 718}";
 }
 );
 layerId = UUID0;
@@ -4728,21 +4803,13 @@ category = Letter;
 },
 {
 glyphname = Na;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{585, 622}";
-},
-{
-name = Anchor13;
-position = "{512, 718}";
-},
-{
-name = Anchor15;
-position = "{375, 718}";
 },
 {
 name = Anchor3;
@@ -4759,6 +4826,14 @@ position = "{393, 54}";
 {
 name = Anchor9;
 position = "{363, -70}";
+},
+{
+name = ardhacandra;
+position = "{512, 718}";
+},
+{
+name = nukta;
+position = "{512, 718}";
 }
 );
 layerId = UUID0;
@@ -4830,21 +4905,13 @@ category = Letter;
 },
 {
 glyphname = Pa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{575, 622}";
-},
-{
-name = Anchor13;
-position = "{513, 718}";
-},
-{
-name = Anchor15;
-position = "{357, 718}";
 },
 {
 name = Anchor3;
@@ -4857,6 +4924,14 @@ position = "{357, -80}";
 {
 name = Anchor9;
 position = "{356, -79}";
+},
+{
+name = ardhacandra;
+position = "{513, 718}";
+},
+{
+name = nukta;
+position = "{513, 718}";
 }
 );
 layerId = UUID0;
@@ -4923,17 +4998,13 @@ category = Letter;
 },
 {
 glyphname = Pha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:25:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{676, 622}";
-},
-{
-name = Anchor13;
-position = "{644, 718}";
 },
 {
 name = Anchor3;
@@ -4950,6 +5021,14 @@ position = "{573, 90}";
 {
 name = Anchor9;
 position = "{653, -50}";
+},
+{
+name = ardhacandra;
+position = "{564, 718}";
+},
+{
+name = nukta;
+position = "{644, 718}";
 }
 );
 layerId = UUID0;
@@ -5047,17 +5126,13 @@ category = Letter;
 },
 {
 glyphname = Ba;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{561, 622}";
-},
-{
-name = Anchor13;
-position = "{516, 718}";
 },
 {
 name = Anchor3;
@@ -5070,6 +5145,14 @@ position = "{320, -80}";
 {
 name = Anchor7;
 position = "{356, 54}";
+},
+{
+name = ardhacandra;
+position = "{516, 718}";
+},
+{
+name = nukta;
+position = "{516, 718}";
 }
 );
 layerId = UUID0;
@@ -5137,17 +5220,13 @@ category = Letter;
 },
 {
 glyphname = Bha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:48:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{648, 622}";
-},
-{
-name = Anchor13;
-position = "{603, 718}";
 },
 {
 name = Anchor3;
@@ -5160,6 +5239,14 @@ position = "{449, -80}";
 {
 name = Anchor7;
 position = "{568, 120}";
+},
+{
+name = ardhacandra;
+position = "{523, 718}";
+},
+{
+name = nukta;
+position = "{603, 718}";
 }
 );
 layerId = UUID0;
@@ -5225,17 +5312,13 @@ category = Letter;
 },
 {
 glyphname = Ma;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:49:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{547, 622}";
-},
-{
-name = Anchor13;
-position = "{500, 718}";
 },
 {
 name = Anchor3;
@@ -5252,6 +5335,14 @@ position = "{438, 90}";
 {
 name = Anchor9;
 position = "{525, -47}";
+},
+{
+name = ardhacandra;
+position = "{420, 718}";
+},
+{
+name = nukta;
+position = "{500, 718}";
 }
 );
 layerId = UUID0;
@@ -5332,21 +5423,13 @@ category = Letter;
 },
 {
 glyphname = Ya;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:47:30 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{568, 622}";
-},
-{
-name = Anchor13;
-position = "{523, 718}";
-},
-{
-name = Anchor15;
-position = "{324, 718}";
 },
 {
 name = Anchor3;
@@ -5359,6 +5442,14 @@ position = "{324, -80}";
 {
 name = Anchor9;
 position = "{323, -70}";
+},
+{
+name = ardhacandra;
+position = "{324, 718}";
+},
+{
+name = nukta;
+position = "{523, 718}";
 }
 );
 layerId = UUID0;
@@ -5431,21 +5522,13 @@ category = Letter;
 },
 {
 glyphname = Ra;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{478, 622}";
-},
-{
-name = Anchor13;
-position = "{415, 718}";
-},
-{
-name = Anchor15;
-position = "{285, 718}";
 },
 {
 name = Anchor3;
@@ -5458,6 +5541,14 @@ position = "{285, -80}";
 {
 name = Anchor9;
 position = "{286, -70}";
+},
+{
+name = ardhacandra;
+position = "{415, 718}";
+},
+{
+name = nukta;
+position = "{415, 718}";
 }
 );
 layerId = UUID0;
@@ -5506,21 +5597,13 @@ category = Letter;
 },
 {
 glyphname = La;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{528, 622}";
-},
-{
-name = Anchor13;
-position = "{472, 718}";
-},
-{
-name = Anchor15;
-position = "{311, 718}";
 },
 {
 name = Anchor3;
@@ -5537,6 +5620,14 @@ position = "{359, 54}";
 {
 name = Anchor9;
 position = "{311, -70}";
+},
+{
+name = ardhacandra;
+position = "{472, 718}";
+},
+{
+name = nukta;
+position = "{472, 718}";
 }
 );
 layerId = UUID0;
@@ -5621,21 +5712,13 @@ category = Letter;
 },
 {
 glyphname = Va;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:40:15 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{546, 622}";
-},
-{
-name = Anchor13;
-position = "{494, 718}";
-},
-{
-name = Anchor15;
-position = "{315, 718}";
 },
 {
 name = Anchor3;
@@ -5652,6 +5735,14 @@ position = "{356, 56}";
 {
 name = Anchor9;
 position = "{333, -70}";
+},
+{
+name = ardhacandra;
+position = "{315, 718}";
+},
+{
+name = nukta;
+position = "{494, 718}";
 }
 );
 layerId = UUID0;
@@ -5718,17 +5809,13 @@ category = Letter;
 },
 {
 glyphname = Sha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{526, 622}";
-},
-{
-name = Anchor13;
-position = "{481, 718}";
 },
 {
 name = Anchor3;
@@ -5741,6 +5828,14 @@ position = "{303, -80}";
 {
 name = Anchor7;
 position = "{446, 55}";
+},
+{
+name = ardhacandra;
+position = "{481, 718}";
+},
+{
+name = nukta;
+position = "{481, 718}";
 }
 );
 layerId = UUID0;
@@ -5802,7 +5897,7 @@ category = Letter;
 },
 {
 glyphname = Ssa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -5811,16 +5906,20 @@ name = Anchor11;
 position = "{507, 622}";
 },
 {
-name = Anchor13;
-position = "{462, 718}";
-},
-{
 name = Anchor3;
 position = "{427, 0}";
 },
 {
 name = Anchor7;
 position = "{427, 140}";
+},
+{
+name = ardhacandra;
+position = "{462, 718}";
+},
+{
+name = nukta;
+position = "{462, 718}";
 }
 );
 layerId = UUID0;
@@ -5875,21 +5974,13 @@ category = Letter;
 },
 {
 glyphname = Sa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{524, 622}";
-},
-{
-name = Anchor13;
-position = "{492, 718}";
-},
-{
-name = Anchor15;
-position = "{324, 718}";
 },
 {
 name = Anchor3;
@@ -5906,6 +5997,14 @@ position = "{359, 54}";
 {
 name = Anchor9;
 position = "{323, -70}";
+},
+{
+name = ardhacandra;
+position = "{492, 718}";
+},
+{
+name = nukta;
+position = "{492, 718}";
 }
 );
 layerId = UUID0;
@@ -5984,21 +6083,13 @@ category = Letter;
 },
 {
 glyphname = Ha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{553, 622}";
-},
-{
-name = Anchor13;
-position = "{508, 718}";
-},
-{
-name = Anchor15;
-position = "{316, 718}";
 },
 {
 name = Anchor3;
@@ -6015,6 +6106,14 @@ position = "{335, 54}";
 {
 name = Anchor9;
 position = "{312, -70}";
+},
+{
+name = ardhacandra;
+position = "{508, 718}";
+},
+{
+name = nukta;
+position = "{508, 718}";
 }
 );
 layerId = UUID0;
@@ -6070,21 +6169,13 @@ category = Letter;
 },
 {
 glyphname = Lla;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:33:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{432, 622}";
-},
-{
-name = Anchor13;
-position = "{634, 718}";
-},
-{
-name = Anchor15;
-position = "{391, 718}";
 },
 {
 name = Anchor3;
@@ -6101,6 +6192,14 @@ position = "{575, 50}";
 {
 name = Anchor9;
 position = "{391, -80}";
+},
+{
+name = ardhacandra;
+position = "{391, 718}";
+},
+{
+name = nukta;
+position = "{634, 718}";
 }
 );
 layerId = UUID0;
@@ -6186,17 +6285,17 @@ category = Letter;
 },
 {
 glyphname = AA_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{115, 718}";
 },
 {
-name = Anchor15;
-position = "{-74, 880}";
+name = nukta;
+position = "{115, 718}";
 }
 );
 layerId = UUID0;
@@ -6223,17 +6322,17 @@ category = Letter;
 },
 {
 glyphname = I_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{195, 758}";
 },
 {
-name = Anchor15;
-position = "{230, 806}";
+name = nukta;
+position = "{195, 758}";
 }
 );
 layerId = UUID0;
@@ -6280,17 +6379,17 @@ category = Letter;
 },
 {
 glyphname = II_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{242, 758}";
 },
 {
-name = Anchor15;
-position = "{264, 806}";
+name = nukta;
+position = "{242, 758}";
 }
 );
 layerId = UUID0;
@@ -6773,16 +6872,16 @@ layers = (
 {
 anchors = (
 {
-name = Anchor17;
+name = _Anchor11;
+position = "{0, 617}";
+},
+{
+name = ardhacandra;
 position = "{-160, 920}";
 },
 {
-name = Anchor19;
+name = nukta;
 position = "{13, 758}";
-},
-{
-name = _Anchor11;
-position = "{0, 617}";
 }
 );
 layerId = UUID0;
@@ -6815,16 +6914,16 @@ layers = (
 {
 anchors = (
 {
-name = Anchor17;
+name = _Anchor11;
+position = "{0, 617}";
+},
+{
+name = ardhacandra;
 position = "{-220, 900}";
 },
 {
-name = Anchor19;
+name = nukta;
 position = "{63, 758}";
-},
-{
-name = _Anchor11;
-position = "{0, 617}";
 }
 );
 layerId = UUID0;
@@ -6861,12 +6960,16 @@ subCategory = Nonspacing;
 },
 {
 glyphname = O_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{171, 758}";
+},
+{
+name = nukta;
 position = "{171, 758}";
 }
 );
@@ -6907,12 +7010,16 @@ category = Letter;
 },
 {
 glyphname = AU_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{228, 758}";
+},
+{
+name = nukta;
 position = "{228, 758}";
 }
 );
@@ -6967,11 +7074,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor13;
-position = "{0, 680}";
-},
-{
-name = _Anchor19;
+name = _nukta;
 position = "{0, 680}";
 }
 );
@@ -7086,29 +7189,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = Ardhacandra;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:36:46 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor19;
+name = _ardhacandra;
+position = "{0, 712}";
+},
+{
+name = nukta;
 position = "{0, 799}";
-},
-{
-name = _Anchor13;
-position = "{80, 712}";
-},
-{
-name = _Anchor15;
-position = "{0, 712}";
-},
-{
-name = _Anchor17;
-position = "{0, 712}";
-},
-{
-name = _Anchor19;
-position = "{80, 712}";
 }
 );
 layerId = UUID0;
@@ -7833,7 +7924,7 @@ category = Letter;
 },
 {
 glyphname = Tha.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -7842,16 +7933,20 @@ name = Anchor11;
 position = "{552, 622}";
 },
 {
-name = Anchor13;
-position = "{507, 718}";
-},
-{
 name = Anchor3;
 position = "{472, 0}";
 },
 {
 name = Anchor7;
 position = "{354, 177}";
+},
+{
+name = ardhacandra;
+position = "{507, 718}";
+},
+{
+name = nukta;
+position = "{507, 718}";
 }
 );
 layerId = UUID0;
@@ -7934,17 +8029,13 @@ category = Letter;
 },
 {
 glyphname = Da.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{413, 622}";
-},
-{
-name = Anchor13;
-position = "{378, 718}";
 },
 {
 name = Anchor3;
@@ -7961,6 +8052,14 @@ position = "{362, 60}";
 {
 name = Anchor9;
 position = "{306, -70}";
+},
+{
+name = ardhacandra;
+position = "{378, 718}";
+},
+{
+name = nukta;
+position = "{378, 718}";
 }
 );
 layerId = UUID0;
@@ -8035,17 +8134,13 @@ category = Letter;
 },
 {
 glyphname = Dha.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{463, 622}";
-},
-{
-name = Anchor13;
-position = "{433, 718}";
 },
 {
 name = Anchor3;
@@ -8062,6 +8157,14 @@ position = "{407, 59}";
 {
 name = Anchor9;
 position = "{351, -70}";
+},
+{
+name = ardhacandra;
+position = "{433, 718}";
+},
+{
+name = nukta;
+position = "{433, 718}";
 }
 );
 layerId = UUID0;
@@ -8144,7 +8247,7 @@ category = Letter;
 },
 {
 glyphname = Pa.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -8153,16 +8256,20 @@ name = Anchor11;
 position = "{507, 622}";
 },
 {
-name = Anchor13;
-position = "{462, 718}";
-},
-{
 name = Anchor3;
 position = "{427, 0}";
 },
 {
 name = Anchor7;
 position = "{321, 215}";
+},
+{
+name = ardhacandra;
+position = "{462, 718}";
+},
+{
+name = nukta;
+position = "{462, 718}";
 }
 );
 layerId = UUID0;
@@ -8209,7 +8316,7 @@ category = Letter;
 },
 {
 glyphname = Ma.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -8218,16 +8325,20 @@ name = Anchor11;
 position = "{507, 622}";
 },
 {
-name = Anchor13;
-position = "{462, 718}";
-},
-{
 name = Anchor3;
 position = "{427, 0}";
 },
 {
 name = Anchor7;
 position = "{427, 213}";
+},
+{
+name = ardhacandra;
+position = "{462, 718}";
+},
+{
+name = nukta;
+position = "{462, 718}";
 }
 );
 layerId = UUID0;
@@ -8276,7 +8387,7 @@ category = Letter;
 },
 {
 glyphname = Ya.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -8285,16 +8396,20 @@ name = Anchor11;
 position = "{512, 622}";
 },
 {
-name = Anchor13;
-position = "{467, 718}";
-},
-{
 name = Anchor3;
 position = "{432, 0}";
 },
 {
 name = Anchor7;
 position = "{324, 185}";
+},
+{
+name = ardhacandra;
+position = "{467, 718}";
+},
+{
+name = nukta;
+position = "{467, 718}";
 }
 );
 layerId = UUID0;
@@ -8999,17 +9114,17 @@ category = Letter;
 },
 {
 glyphname = U.alt3;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{487, 758}";
 },
 {
-name = Anchor15;
-position = "{232, 880}";
+name = nukta;
+position = "{487, 758}";
 }
 );
 layerId = UUID0;
@@ -9112,17 +9227,17 @@ category = Letter;
 },
 {
 glyphname = UU.alt1;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{552, 758}";
 },
 {
-name = Anchor15;
-position = "{261, 880}";
+name = nukta;
+position = "{552, 758}";
 }
 );
 layerId = UUID0;
@@ -10419,7 +10534,7 @@ category = Letter;
 },
 {
 glyphname = AA_dv.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -10428,12 +10543,12 @@ name = Anchor11;
 position = "{25, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{125, 718}";
 },
 {
-name = Anchor15;
-position = "{2, 702}";
+name = nukta;
+position = "{125, 718}";
 }
 );
 layerId = UUID0;
@@ -10470,17 +10585,17 @@ category = Letter;
 },
 {
 glyphname = U.alt4;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{322, 758}";
 },
 {
-name = Anchor15;
-position = "{-6, 880}";
+name = nukta;
+position = "{322, 758}";
 }
 );
 layerId = UUID0;
@@ -10530,17 +10645,17 @@ category = Letter;
 },
 {
 glyphname = UU.alt3;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{401, 758}";
 },
 {
-name = Anchor15;
-position = "{44, 880}";
+name = nukta;
+position = "{401, 758}";
 }
 );
 layerId = UUID0;
@@ -12013,17 +12128,17 @@ category = Letter;
 },
 {
 glyphname = Li;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{404, 718}";
 },
 {
-name = Anchor15;
-position = "{273, 718}";
+name = nukta;
+position = "{404, 718}";
 }
 );
 layerId = UUID0;
@@ -12457,7 +12572,7 @@ category = Letter;
 },
 {
 glyphname = Haa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -12466,12 +12581,12 @@ name = Anchor11;
 position = "{585, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{534, 718}";
 },
 {
-name = Anchor15;
-position = "{355, 718}";
+name = nukta;
+position = "{534, 718}";
 }
 );
 layerId = UUID0;
@@ -12641,7 +12756,7 @@ category = Letter;
 },
 {
 glyphname = TRa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -12650,16 +12765,20 @@ name = Anchor11;
 position = "{512, 622}";
 },
 {
-name = Anchor13;
-position = "{464, 718}";
-},
-{
 name = Anchor3;
 position = "{432, 0}";
 },
 {
 name = Anchor5;
 position = "{362, -80}";
+},
+{
+name = ardhacandra;
+position = "{464, 718}";
+},
+{
+name = nukta;
+position = "{464, 718}";
 }
 );
 layerId = UUID0;
@@ -12711,17 +12830,21 @@ category = Letter;
 },
 {
 glyphname = Repha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:50:18 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor19;
-position = "{-19, 653}";
-},
-{
 name = _Anchor11;
 position = "{-102, 618}";
+},
+{
+name = ardhacandra;
+position = "{-272, 900}";
+},
+{
+name = nukta;
+position = "{-19, 653}";
 }
 );
 layerId = UUID0;
@@ -12866,17 +12989,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = KaRa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{364, 718}";
 },
 {
-name = Anchor15;
-position = "{218, 718}";
+name = nukta;
+position = "{364, 718}";
 }
 );
 layerId = UUID0;
@@ -12950,7 +13073,7 @@ category = Letter;
 },
 {
 glyphname = KaaRa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -12959,12 +13082,12 @@ name = Anchor11;
 position = "{310, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
 position = "{514, 718}";
 },
 {
-name = Anchor15;
-position = "{300, 718}";
+name = nukta;
+position = "{514, 718}";
 }
 );
 layerId = UUID0;
@@ -13063,7 +13186,7 @@ category = Letter;
 },
 {
 glyphname = Ra.alt2;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -13072,7 +13195,11 @@ name = Anchor11;
 position = "{198, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{110, 718}";
+},
+{
+name = nukta;
 position = "{110, 718}";
 }
 );
@@ -13136,7 +13263,7 @@ category = Letter;
 },
 {
 glyphname = Ra.alt3;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -13145,7 +13272,11 @@ name = Anchor11;
 position = "{-81, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{80, 718}";
+},
+{
+name = nukta;
 position = "{80, 718}";
 }
 );
@@ -13189,7 +13320,7 @@ category = Letter;
 },
 {
 glyphname = Ra.alt4;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -13198,7 +13329,11 @@ name = Anchor11;
 position = "{227, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{209, 718}";
+},
+{
+name = nukta;
 position = "{209, 718}";
 }
 );
@@ -13330,7 +13465,7 @@ width = 200;
 },
 {
 glyphname = URa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -13339,7 +13474,11 @@ name = Anchor11;
 position = "{-79, 622}";
 },
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{0, 718}";
+},
+{
+name = nukta;
 position = "{0, 718}";
 }
 );
@@ -13875,12 +14014,16 @@ category = Letter;
 },
 {
 glyphname = I.med;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{185, 758}";
+},
+{
+name = nukta;
 position = "{185, 758}";
 }
 );
@@ -13927,12 +14070,16 @@ category = Letter;
 },
 {
 glyphname = I.lg;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{165, 758}";
+},
+{
+name = nukta;
 position = "{165, 758}";
 }
 );
@@ -13979,12 +14126,16 @@ category = Letter;
 },
 {
 glyphname = II.med;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{242, 758}";
+},
+{
+name = nukta;
 position = "{242, 758}";
 }
 );
@@ -14060,12 +14211,16 @@ category = Letter;
 },
 {
 glyphname = II.lg;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
-name = Anchor13;
+name = ardhacandra;
+position = "{212, 758}";
+},
+{
+name = nukta;
 position = "{212, 758}";
 }
 );
@@ -15677,7 +15832,7 @@ category = Letter;
 },
 {
 glyphname = TYa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -15686,16 +15841,20 @@ name = Anchor11;
 position = "{732, 622}";
 },
 {
-name = Anchor13;
-position = "{684, 718}";
-},
-{
 name = Anchor3;
 position = "{652, 0}";
 },
 {
 name = Anchor7;
 position = "{652, 120}";
+},
+{
+name = ardhacandra;
+position = "{684, 718}";
+},
+{
+name = nukta;
+position = "{684, 718}";
 }
 );
 layerId = UUID0;
@@ -15772,7 +15931,7 @@ category = Letter;
 },
 {
 glyphname = STha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -15781,16 +15940,20 @@ name = Anchor11;
 position = "{783, 622}";
 },
 {
-name = Anchor13;
-position = "{734, 718}";
-},
-{
 name = Anchor3;
 position = "{703, 0}";
 },
 {
 name = Anchor7;
 position = "{703, 140}";
+},
+{
+name = ardhacandra;
+position = "{734, 718}";
+},
+{
+name = nukta;
+position = "{734, 718}";
 }
 );
 layerId = UUID0;
@@ -15910,7 +16073,7 @@ category = Letter;
 },
 {
 glyphname = DYa;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -15919,16 +16082,20 @@ name = Anchor11;
 position = "{872, 622}";
 },
 {
-name = Anchor13;
-position = "{824, 718}";
-},
-{
 name = Anchor3;
 position = "{792, 0}";
 },
 {
 name = Anchor7;
 position = "{792, 140}";
+},
+{
+name = ardhacandra;
+position = "{824, 718}";
+},
+{
+name = nukta;
+position = "{824, 718}";
 }
 );
 layerId = UUID0;
@@ -16019,21 +16186,13 @@ category = Letter;
 },
 {
 glyphname = SsDdha;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 12:24:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor11;
 position = "{635, 622}";
-},
-{
-name = Anchor13;
-position = "{619, 718}";
-},
-{
-name = Anchor15;
-position = "{587, 718}";
 },
 {
 name = Anchor3;
@@ -16050,6 +16209,14 @@ position = "{601, 56}";
 {
 name = Anchor9;
 position = "{541, -70}";
+},
+{
+name = ardhacandra;
+position = "{619, 718}";
+},
+{
+name = nukta;
+position = "{619, 718}";
 }
 );
 layerId = UUID0;
