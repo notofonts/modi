@@ -1,7 +1,7 @@
 {
 .appVersion = "3109";
 DisplayStrings = (
-"/Ga/Vattu/Virama/Tta/Ttha.half"
+"/Ga/Vattu/Virama/Tta/Ttha.half/space/space/Vattu"
 );
 classes = (
 {
@@ -603,10 +603,6 @@ name = Anchor11;
 position = "{429, 539}";
 },
 {
-name = Anchor3;
-position = "{297, -20}";
-},
-{
 name = Anchor5;
 position = "{297, -20}";
 },
@@ -615,16 +611,20 @@ name = Anchor7;
 position = "{297, 70}";
 },
 {
-name = vattu;
-position = "{297, -20}";
-},
-{
 name = ardhacandra;
 position = "{326, 669}";
 },
 {
 name = nukta;
 position = "{406, 669}";
+},
+{
+name = vattu;
+position = "{297, -20}";
+},
+{
+name = vocalicl;
+position = "{297, -20}";
 }
 );
 layerId = UUID0;
@@ -2845,10 +2845,6 @@ name = Anchor11;
 position = "{556, 622}";
 },
 {
-name = Anchor3;
-position = "{491, -80}";
-},
-{
 name = Anchor5;
 position = "{339, -80}";
 },
@@ -2857,16 +2853,20 @@ name = Anchor7;
 position = "{447, 90}";
 },
 {
-name = vattu;
-position = "{532, -47}";
-},
-{
 name = ardhacandra;
 position = "{327, 718}";
 },
 {
 name = nukta;
 position = "{529, 718}";
+},
+{
+name = vattu;
+position = "{532, -47}";
+},
+{
+name = vocalicl;
+position = "{491, -80}";
 }
 );
 layerId = UUID0;
@@ -2959,10 +2959,6 @@ name = Anchor11;
 position = "{646, 622}";
 },
 {
-name = Anchor3;
-position = "{357, -80}";
-},
-{
 name = Anchor5;
 position = "{357, -80}";
 },
@@ -2971,16 +2967,20 @@ name = Anchor7;
 position = "{421, 61}";
 },
 {
-name = vattu;
-position = "{357, -70}";
-},
-{
 name = ardhacandra;
 position = "{534, 718}";
 },
 {
 name = nukta;
 position = "{534, 718}";
+},
+{
+name = vattu;
+position = "{357, -70}";
+},
+{
+name = vocalicl;
+position = "{357, -80}";
 }
 );
 layerId = UUID0;
@@ -3079,16 +3079,8 @@ name = Anchor11;
 position = "{582, 622}";
 },
 {
-name = Anchor3;
-position = "{502, 0}";
-},
-{
 name = Anchor7;
 position = "{503, 160}";
-},
-{
-name = vattu;
-position = "{502, 0}";
 },
 {
 name = ardhacandra;
@@ -3097,6 +3089,14 @@ position = "{537, 718}";
 {
 name = nukta;
 position = "{537, 718}";
+},
+{
+name = vattu;
+position = "{502, 0}";
+},
+{
+name = vocalicl;
+position = "{502, 0}";
 }
 );
 layerId = UUID0;
@@ -3168,16 +3168,8 @@ name = Anchor11;
 position = "{556, 622}";
 },
 {
-name = Anchor3;
-position = "{476, 0}";
-},
-{
 name = Anchor7;
 position = "{476, 120}";
-},
-{
-name = vattu;
-position = "{476, 0}";
 },
 {
 name = ardhacandra;
@@ -3186,6 +3178,14 @@ position = "{511, 718}";
 {
 name = nukta;
 position = "{511, 718}";
+},
+{
+name = vattu;
+position = "{476, 0}";
+},
+{
+name = vocalicl;
+position = "{476, 0}";
 }
 );
 layerId = UUID0;
@@ -3263,10 +3263,6 @@ name = Anchor11;
 position = "{556, 622}";
 },
 {
-name = Anchor3;
-position = "{319, -80}";
-},
-{
 name = Anchor5;
 position = "{355, -80}";
 },
@@ -3275,16 +3271,20 @@ name = Anchor7;
 position = "{390, 54}";
 },
 {
-name = vattu;
-position = "{358, -70}";
-},
-{
 name = ardhacandra;
 position = "{382, 718}";
 },
 {
 name = nukta;
 position = "{462, 718}";
+},
+{
+name = vattu;
+position = "{358, -70}";
+},
+{
+name = vocalicl;
+position = "{319, -80}";
 }
 );
 layerId = UUID0;
@@ -3371,10 +3371,6 @@ name = Anchor11;
 position = "{520, 622}";
 },
 {
-name = Anchor3;
-position = "{379, -80}";
-},
-{
 name = Anchor5;
 position = "{382, -80}";
 },
@@ -3383,16 +3379,20 @@ name = Anchor7;
 position = "{395, 54}";
 },
 {
-name = vattu;
-position = "{382, -70}";
-},
-{
 name = ardhacandra;
 position = "{493, 718}";
 },
 {
 name = nukta;
 position = "{493, 718}";
+},
+{
+name = vattu;
+position = "{382, -70}";
+},
+{
+name = vocalicl;
+position = "{379, -80}";
 }
 );
 layerId = UUID0;
@@ -3466,10 +3466,6 @@ name = Anchor11;
 position = "{546, 622}";
 },
 {
-name = Anchor3;
-position = "{354, -80}";
-},
-{
 name = Anchor5;
 position = "{353, -80}";
 },
@@ -3478,16 +3474,20 @@ name = Anchor7;
 position = "{383, 54}";
 },
 {
-name = vattu;
-position = "{353, -70}";
-},
-{
 name = ardhacandra;
 position = "{532, 718}";
 },
 {
 name = nukta;
 position = "{532, 718}";
+},
+{
+name = vattu;
+position = "{353, -70}";
+},
+{
+name = vocalicl;
+position = "{354, -80}";
 }
 );
 layerId = UUID0;
@@ -3591,10 +3591,6 @@ name = Anchor11;
 position = "{585, 622}";
 },
 {
-name = Anchor3;
-position = "{363, -80}";
-},
-{
 name = Anchor5;
 position = "{365, -80}";
 },
@@ -3603,16 +3599,20 @@ name = Anchor7;
 position = "{383, 52}";
 },
 {
-name = vattu;
-position = "{365, -70}";
-},
-{
 name = ardhacandra;
 position = "{375, 718}";
 },
 {
 name = nukta;
 position = "{512, 718}";
+},
+{
+name = vattu;
+position = "{365, -70}";
+},
+{
+name = vocalicl;
+position = "{363, -80}";
 }
 );
 layerId = UUID0;
@@ -3716,10 +3716,6 @@ name = Anchor11;
 position = "{631, 622}";
 },
 {
-name = Anchor3;
-position = "{566, -80}";
-},
-{
 name = Anchor5;
 position = "{375, -80}";
 },
@@ -3728,16 +3724,20 @@ name = Anchor7;
 position = "{522, 90}";
 },
 {
-name = vattu;
-position = "{608, -47}";
-},
-{
 name = ardhacandra;
 position = "{595, 718}";
 },
 {
 name = nukta;
 position = "{595, 718}";
+},
+{
+name = vattu;
+position = "{608, -47}";
+},
+{
+name = vocalicl;
+position = "{566, -80}";
 }
 );
 layerId = UUID0;
@@ -3867,10 +3867,6 @@ name = Anchor11;
 position = "{637, 622}";
 },
 {
-name = Anchor3;
-position = "{573, -80}";
-},
-{
 name = Anchor5;
 position = "{391, -80}";
 },
@@ -3879,16 +3875,20 @@ name = Anchor7;
 position = "{519, 90}";
 },
 {
-name = vattu;
-position = "{615, -47}";
-},
-{
 name = ardhacandra;
 position = "{520, 718}";
 },
 {
 name = nukta;
 position = "{600, 718}";
+},
+{
+name = vattu;
+position = "{615, -47}";
+},
+{
+name = vocalicl;
+position = "{573, -80}";
 }
 );
 layerId = UUID0;
@@ -3982,10 +3982,6 @@ name = Anchor11;
 position = "{458, 622}";
 },
 {
-name = Anchor3;
-position = "{282, -80}";
-},
-{
 name = Anchor5;
 position = "{273, -80}";
 },
@@ -3994,16 +3990,20 @@ name = Anchor7;
 position = "{322, 57}";
 },
 {
-name = vattu;
-position = "{277, -70}";
-},
-{
 name = ardhacandra;
 position = "{422, 718}";
 },
 {
 name = nukta;
 position = "{422, 718}";
+},
+{
+name = vattu;
+position = "{277, -70}";
+},
+{
+name = vocalicl;
+position = "{282, -80}";
 }
 );
 layerId = UUID0;
@@ -4071,10 +4071,6 @@ name = Anchor11;
 position = "{458, 622}";
 },
 {
-name = Anchor3;
-position = "{288, -80}";
-},
-{
 name = Anchor5;
 position = "{273, -80}";
 },
@@ -4083,16 +4079,20 @@ name = Anchor7;
 position = "{322, 57}";
 },
 {
-name = vattu;
-position = "{277, -70}";
-},
-{
 name = ardhacandra;
 position = "{442, 718}";
 },
 {
 name = nukta;
 position = "{442, 718}";
+},
+{
+name = vattu;
+position = "{277, -70}";
+},
+{
+name = vocalicl;
+position = "{288, -80}";
 }
 );
 components = (
@@ -4122,10 +4122,6 @@ name = Anchor11;
 position = "{463, 622}";
 },
 {
-name = Anchor3;
-position = "{338, -80}";
-},
-{
 name = Anchor5;
 position = "{358, -80}";
 },
@@ -4134,16 +4130,20 @@ name = Anchor7;
 position = "{401, 54}";
 },
 {
-name = vattu;
-position = "{355, -70}";
-},
-{
 name = ardhacandra;
 position = "{472, 718}";
 },
 {
 name = nukta;
 position = "{472, 718}";
+},
+{
+name = vattu;
+position = "{355, -70}";
+},
+{
+name = vocalicl;
+position = "{338, -80}";
 }
 );
 layerId = UUID0;
@@ -4213,10 +4213,6 @@ name = Anchor11;
 position = "{385, 622}";
 },
 {
-name = Anchor3;
-position = "{316, -80}";
-},
-{
 name = Anchor5;
 position = "{291, -80}";
 },
@@ -4225,16 +4221,20 @@ name = Anchor7;
 position = "{347, 54}";
 },
 {
-name = vattu;
-position = "{289, -70}";
-},
-{
 name = ardhacandra;
 position = "{459, 718}";
 },
 {
 name = nukta;
 position = "{459, 718}";
+},
+{
+name = vattu;
+position = "{289, -70}";
+},
+{
+name = vocalicl;
+position = "{316, -80}";
 }
 );
 layerId = UUID0;
@@ -4311,16 +4311,8 @@ name = Anchor11;
 position = "{641, 622}";
 },
 {
-name = Anchor3;
-position = "{561, 0}";
-},
-{
 name = Anchor7;
 position = "{561, 120}";
-},
-{
-name = vattu;
-position = "{561, 0}";
 },
 {
 name = ardhacandra;
@@ -4329,6 +4321,14 @@ position = "{596, 718}";
 {
 name = nukta;
 position = "{596, 718}";
+},
+{
+name = vattu;
+position = "{561, 0}";
+},
+{
+name = vocalicl;
+position = "{561, 0}";
 }
 );
 layerId = UUID0;
@@ -4411,10 +4411,6 @@ name = Anchor11;
 position = "{452, 622}";
 },
 {
-name = Anchor3;
-position = "{372, 0}";
-},
-{
 name = Anchor5;
 position = "{296, -80}";
 },
@@ -4423,16 +4419,20 @@ name = Anchor7;
 position = "{372, 80}";
 },
 {
-name = vattu;
-position = "{372, 0}";
-},
-{
 name = ardhacandra;
 position = "{327, 718}";
 },
 {
 name = nukta;
 position = "{407, 718}";
+},
+{
+name = vattu;
+position = "{372, 0}";
+},
+{
+name = vocalicl;
+position = "{372, 0}";
 }
 );
 layerId = UUID0;
@@ -4484,20 +4484,20 @@ name = Anchor11;
 position = "{702, 622}";
 },
 {
-name = Anchor3;
-position = "{507, -80}";
-},
-{
-name = vattu;
-position = "{507, -80}";
-},
-{
 name = ardhacandra;
 position = "{669, 718}";
 },
 {
 name = nukta;
 position = "{669, 718}";
+},
+{
+name = vattu;
+position = "{507, -80}";
+},
+{
+name = vocalicl;
+position = "{507, -80}";
 }
 );
 layerId = UUID0;
@@ -4608,10 +4608,6 @@ name = Anchor11;
 position = "{516, 622}";
 },
 {
-name = Anchor3;
-position = "{335, -80}";
-},
-{
 name = Anchor5;
 position = "{321, -80}";
 },
@@ -4620,16 +4616,20 @@ name = Anchor7;
 position = "{374, 54}";
 },
 {
-name = vattu;
-position = "{331, -70}";
-},
-{
 name = ardhacandra;
 position = "{485, 718}";
 },
 {
 name = nukta;
 position = "{485, 718}";
+},
+{
+name = vattu;
+position = "{331, -70}";
+},
+{
+name = vocalicl;
+position = "{335, -80}";
 }
 );
 layerId = UUID0;
@@ -4708,10 +4708,6 @@ name = Anchor11;
 position = "{544, 622}";
 },
 {
-name = Anchor3;
-position = "{371, -80}";
-},
-{
 name = Anchor5;
 position = "{336, -80}";
 },
@@ -4720,16 +4716,20 @@ name = Anchor7;
 position = "{414, 55}";
 },
 {
-name = vattu;
-position = "{374, -70}";
-},
-{
 name = ardhacandra;
 position = "{336, 718}";
 },
 {
 name = nukta;
 position = "{515, 718}";
+},
+{
+name = vattu;
+position = "{374, -70}";
+},
+{
+name = vocalicl;
+position = "{371, -80}";
 }
 );
 layerId = UUID0;
@@ -4832,10 +4832,6 @@ name = Anchor11;
 position = "{585, 622}";
 },
 {
-name = Anchor3;
-position = "{363, -80}";
-},
-{
 name = Anchor5;
 position = "{363, -80}";
 },
@@ -4844,16 +4840,20 @@ name = Anchor7;
 position = "{393, 54}";
 },
 {
-name = vattu;
-position = "{363, -70}";
-},
-{
 name = ardhacandra;
 position = "{512, 718}";
 },
 {
 name = nukta;
 position = "{512, 718}";
+},
+{
+name = vattu;
+position = "{363, -70}";
+},
+{
+name = vocalicl;
+position = "{363, -80}";
 }
 );
 layerId = UUID0;
@@ -4934,16 +4934,8 @@ name = Anchor11;
 position = "{575, 622}";
 },
 {
-name = Anchor3;
-position = "{455, -80}";
-},
-{
 name = Anchor5;
 position = "{357, -80}";
-},
-{
-name = vattu;
-position = "{356, -79}";
 },
 {
 name = ardhacandra;
@@ -4952,6 +4944,14 @@ position = "{513, 718}";
 {
 name = nukta;
 position = "{513, 718}";
+},
+{
+name = vattu;
+position = "{356, -79}";
+},
+{
+name = vocalicl;
+position = "{455, -80}";
 }
 );
 layerId = UUID0;
@@ -5027,10 +5027,6 @@ name = Anchor11;
 position = "{676, 622}";
 },
 {
-name = Anchor3;
-position = "{610, -80}";
-},
-{
 name = Anchor5;
 position = "{471, -80}";
 },
@@ -5039,16 +5035,20 @@ name = Anchor7;
 position = "{573, 90}";
 },
 {
-name = vattu;
-position = "{653, -50}";
-},
-{
 name = ardhacandra;
 position = "{564, 718}";
 },
 {
 name = nukta;
 position = "{644, 718}";
+},
+{
+name = vattu;
+position = "{653, -50}";
+},
+{
+name = vocalicl;
+position = "{610, -80}";
 }
 );
 layerId = UUID0;
@@ -5155,10 +5155,6 @@ name = Anchor11;
 position = "{561, 622}";
 },
 {
-name = Anchor3;
-position = "{481, 0}";
-},
-{
 name = Anchor5;
 position = "{320, -80}";
 },
@@ -5167,16 +5163,20 @@ name = Anchor7;
 position = "{356, 54}";
 },
 {
-name = vattu;
-position = "{481, 0}";
-},
-{
 name = ardhacandra;
 position = "{516, 718}";
 },
 {
 name = nukta;
 position = "{516, 718}";
+},
+{
+name = vattu;
+position = "{481, 0}";
+},
+{
+name = vocalicl;
+position = "{481, 0}";
 }
 );
 layerId = UUID0;
@@ -5253,10 +5253,6 @@ name = Anchor11;
 position = "{648, 622}";
 },
 {
-name = Anchor3;
-position = "{568, 0}";
-},
-{
 name = Anchor5;
 position = "{449, -80}";
 },
@@ -5265,16 +5261,20 @@ name = Anchor7;
 position = "{568, 120}";
 },
 {
-name = vattu;
-position = "{568, 0}";
-},
-{
 name = ardhacandra;
 position = "{523, 718}";
 },
 {
 name = nukta;
 position = "{603, 718}";
+},
+{
+name = vattu;
+position = "{568, 0}";
+},
+{
+name = vocalicl;
+position = "{568, 0}";
 }
 );
 layerId = UUID0;
@@ -5349,10 +5349,6 @@ name = Anchor11;
 position = "{547, 622}";
 },
 {
-name = Anchor3;
-position = "{482, -80}";
-},
-{
 name = Anchor5;
 position = "{328, -80}";
 },
@@ -5361,16 +5357,20 @@ name = Anchor7;
 position = "{438, 90}";
 },
 {
-name = vattu;
-position = "{525, -47}";
-},
-{
 name = ardhacandra;
 position = "{420, 718}";
 },
 {
 name = nukta;
 position = "{500, 718}";
+},
+{
+name = vattu;
+position = "{525, -47}";
+},
+{
+name = vocalicl;
+position = "{482, -80}";
 }
 );
 layerId = UUID0;
@@ -5460,16 +5460,8 @@ name = Anchor11;
 position = "{568, 622}";
 },
 {
-name = Anchor3;
-position = "{323, -80}";
-},
-{
 name = Anchor5;
 position = "{324, -80}";
-},
-{
-name = vattu;
-position = "{323, -70}";
 },
 {
 name = ardhacandra;
@@ -5478,6 +5470,14 @@ position = "{324, 718}";
 {
 name = nukta;
 position = "{523, 718}";
+},
+{
+name = vattu;
+position = "{323, -70}";
+},
+{
+name = vocalicl;
+position = "{323, -80}";
 }
 );
 layerId = UUID0;
@@ -5559,16 +5559,8 @@ name = Anchor11;
 position = "{478, 622}";
 },
 {
-name = Anchor3;
-position = "{284, -80}";
-},
-{
 name = Anchor5;
 position = "{285, -80}";
-},
-{
-name = vattu;
-position = "{286, -70}";
 },
 {
 name = ardhacandra;
@@ -5577,6 +5569,14 @@ position = "{415, 718}";
 {
 name = nukta;
 position = "{415, 718}";
+},
+{
+name = vattu;
+position = "{286, -70}";
+},
+{
+name = vocalicl;
+position = "{284, -80}";
 }
 );
 layerId = UUID0;
@@ -5634,10 +5634,6 @@ name = Anchor11;
 position = "{528, 622}";
 },
 {
-name = Anchor3;
-position = "{325, -80}";
-},
-{
 name = Anchor5;
 position = "{301, -80}";
 },
@@ -5646,16 +5642,20 @@ name = Anchor7;
 position = "{359, 54}";
 },
 {
-name = vattu;
-position = "{311, -70}";
-},
-{
 name = ardhacandra;
 position = "{472, 718}";
 },
 {
 name = nukta;
 position = "{472, 718}";
+},
+{
+name = vattu;
+position = "{311, -70}";
+},
+{
+name = vocalicl;
+position = "{325, -80}";
 }
 );
 layerId = UUID0;
@@ -5749,10 +5749,6 @@ name = Anchor11;
 position = "{546, 622}";
 },
 {
-name = Anchor3;
-position = "{473, -80}";
-},
-{
 name = Anchor5;
 position = "{351, -80}";
 },
@@ -5761,16 +5757,20 @@ name = Anchor7;
 position = "{356, 56}";
 },
 {
-name = vattu;
-position = "{333, -70}";
-},
-{
 name = ardhacandra;
 position = "{315, 718}";
 },
 {
 name = nukta;
 position = "{494, 718}";
+},
+{
+name = vattu;
+position = "{333, -70}";
+},
+{
+name = vocalicl;
+position = "{473, -80}";
 }
 );
 layerId = UUID0;
@@ -5846,10 +5846,6 @@ name = Anchor11;
 position = "{526, 622}";
 },
 {
-name = Anchor3;
-position = "{446, 0}";
-},
-{
 name = Anchor5;
 position = "{303, -80}";
 },
@@ -5858,16 +5854,20 @@ name = Anchor7;
 position = "{446, 55}";
 },
 {
-name = vattu;
-position = "{446, 0}";
-},
-{
 name = ardhacandra;
 position = "{481, 718}";
 },
 {
 name = nukta;
 position = "{481, 718}";
+},
+{
+name = vattu;
+position = "{446, 0}";
+},
+{
+name = vocalicl;
+position = "{446, 0}";
 }
 );
 layerId = UUID0;
@@ -5938,16 +5938,8 @@ name = Anchor11;
 position = "{507, 622}";
 },
 {
-name = Anchor3;
-position = "{427, 0}";
-},
-{
 name = Anchor7;
 position = "{427, 140}";
-},
-{
-name = vattu;
-position = "{427, 0}";
 },
 {
 name = ardhacandra;
@@ -5956,6 +5948,14 @@ position = "{462, 718}";
 {
 name = nukta;
 position = "{462, 718}";
+},
+{
+name = vattu;
+position = "{427, 0}";
+},
+{
+name = vocalicl;
+position = "{427, 0}";
 }
 );
 layerId = UUID0;
@@ -6019,10 +6019,6 @@ name = Anchor11;
 position = "{524, 622}";
 },
 {
-name = Anchor3;
-position = "{325, -80}";
-},
-{
 name = Anchor5;
 position = "{325, -80}";
 },
@@ -6031,16 +6027,20 @@ name = Anchor7;
 position = "{359, 54}";
 },
 {
-name = vattu;
-position = "{323, -70}";
-},
-{
 name = ardhacandra;
 position = "{492, 718}";
 },
 {
 name = nukta;
 position = "{492, 718}";
+},
+{
+name = vattu;
+position = "{323, -70}";
+},
+{
+name = vocalicl;
+position = "{325, -80}";
 }
 );
 layerId = UUID0;
@@ -6128,10 +6128,6 @@ name = Anchor11;
 position = "{553, 622}";
 },
 {
-name = Anchor3;
-position = "{295, -80}";
-},
-{
 name = Anchor5;
 position = "{315, -80}";
 },
@@ -6140,16 +6136,20 @@ name = Anchor7;
 position = "{335, 54}";
 },
 {
-name = vattu;
-position = "{312, -70}";
-},
-{
 name = ardhacandra;
 position = "{508, 718}";
 },
 {
 name = nukta;
 position = "{508, 718}";
+},
+{
+name = vattu;
+position = "{312, -70}";
+},
+{
+name = vocalicl;
+position = "{295, -80}";
 }
 );
 layerId = UUID0;
@@ -6214,10 +6214,6 @@ name = Anchor11;
 position = "{432, 622}";
 },
 {
-name = Anchor3;
-position = "{555, -80}";
-},
-{
 name = Anchor5;
 position = "{391, -80}";
 },
@@ -6226,16 +6222,20 @@ name = Anchor7;
 position = "{575, 50}";
 },
 {
-name = vattu;
-position = "{391, -80}";
-},
-{
 name = ardhacandra;
 position = "{391, 718}";
 },
 {
 name = nukta;
 position = "{634, 718}";
+},
+{
+name = vattu;
+position = "{391, -80}";
+},
+{
+name = vocalicl;
+position = "{555, -80}";
 }
 );
 layerId = UUID0;
@@ -6506,7 +6506,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-159, -50}";
 }
 );
@@ -6558,7 +6558,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-179, -50}";
 }
 );
@@ -6610,7 +6610,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-143, -50}";
 }
 );
@@ -6656,7 +6656,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-163, -50}";
 }
 );
@@ -6724,7 +6724,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-146, -50}";
 }
 );
@@ -6801,7 +6801,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-146, -50}";
 }
 );
@@ -7188,7 +7188,7 @@ layers = (
 {
 anchors = (
 {
-name = _Anchor3;
+name = _vocalicl;
 position = "{-129, -50}";
 }
 );
@@ -7961,16 +7961,8 @@ name = Anchor11;
 position = "{552, 622}";
 },
 {
-name = Anchor3;
-position = "{472, 0}";
-},
-{
 name = Anchor7;
 position = "{354, 177}";
-},
-{
-name = vattu;
-position = "{472, 0}";
 },
 {
 name = ardhacandra;
@@ -7979,6 +7971,14 @@ position = "{507, 718}";
 {
 name = nukta;
 position = "{507, 718}";
+},
+{
+name = vattu;
+position = "{472, 0}";
+},
+{
+name = vocalicl;
+position = "{472, 0}";
 }
 );
 layerId = UUID0;
@@ -8070,10 +8070,6 @@ name = Anchor11;
 position = "{413, 622}";
 },
 {
-name = Anchor3;
-position = "{235, -80}";
-},
-{
 name = Anchor5;
 position = "{283, -80}";
 },
@@ -8082,16 +8078,20 @@ name = Anchor7;
 position = "{362, 60}";
 },
 {
-name = vattu;
-position = "{306, -70}";
-},
-{
 name = ardhacandra;
 position = "{378, 718}";
 },
 {
 name = nukta;
 position = "{378, 718}";
+},
+{
+name = vattu;
+position = "{306, -70}";
+},
+{
+name = vocalicl;
+position = "{235, -80}";
 }
 );
 layerId = UUID0;
@@ -8175,10 +8175,6 @@ name = Anchor11;
 position = "{463, 622}";
 },
 {
-name = Anchor3;
-position = "{325, -80}";
-},
-{
 name = Anchor5;
 position = "{351, -80}";
 },
@@ -8187,16 +8183,20 @@ name = Anchor7;
 position = "{407, 59}";
 },
 {
-name = vattu;
-position = "{351, -70}";
-},
-{
 name = ardhacandra;
 position = "{433, 718}";
 },
 {
 name = nukta;
 position = "{433, 718}";
+},
+{
+name = vattu;
+position = "{351, -70}";
+},
+{
+name = vocalicl;
+position = "{325, -80}";
 }
 );
 layerId = UUID0;
@@ -8288,16 +8288,8 @@ name = Anchor11;
 position = "{507, 622}";
 },
 {
-name = Anchor3;
-position = "{427, 0}";
-},
-{
 name = Anchor7;
 position = "{321, 215}";
-},
-{
-name = vattu;
-position = "{427, 0}";
 },
 {
 name = ardhacandra;
@@ -8306,6 +8298,14 @@ position = "{462, 718}";
 {
 name = nukta;
 position = "{462, 718}";
+},
+{
+name = vattu;
+position = "{427, 0}";
+},
+{
+name = vocalicl;
+position = "{427, 0}";
 }
 );
 layerId = UUID0;
@@ -8361,16 +8361,8 @@ name = Anchor11;
 position = "{507, 622}";
 },
 {
-name = Anchor3;
-position = "{427, 0}";
-},
-{
 name = Anchor7;
 position = "{427, 213}";
-},
-{
-name = vattu;
-position = "{427, 0}";
 },
 {
 name = ardhacandra;
@@ -8379,6 +8371,14 @@ position = "{462, 718}";
 {
 name = nukta;
 position = "{462, 718}";
+},
+{
+name = vattu;
+position = "{427, 0}";
+},
+{
+name = vocalicl;
+position = "{427, 0}";
 }
 );
 layerId = UUID0;
@@ -8436,16 +8436,8 @@ name = Anchor11;
 position = "{512, 622}";
 },
 {
-name = Anchor3;
-position = "{432, 0}";
-},
-{
 name = Anchor7;
 position = "{324, 185}";
-},
-{
-name = vattu;
-position = "{432, 0}";
 },
 {
 name = ardhacandra;
@@ -8454,6 +8446,14 @@ position = "{467, 718}";
 {
 name = nukta;
 position = "{467, 718}";
+},
+{
+name = vattu;
+position = "{432, 0}";
+},
+{
+name = vocalicl;
+position = "{432, 0}";
 }
 );
 layerId = UUID0;
@@ -8519,15 +8519,15 @@ name = Anchor11;
 position = "{437, 622}";
 },
 {
-name = Anchor3;
-position = "{357, 0}";
-},
-{
 name = Anchor7;
 position = "{357, 213}";
 },
 {
 name = vattu;
+position = "{357, 0}";
+},
+{
+name = vocalicl;
 position = "{357, 0}";
 }
 );
@@ -8577,11 +8577,11 @@ name = Anchor11;
 position = "{552, 622}";
 },
 {
-name = Anchor3;
+name = vattu;
 position = "{472, 0}";
 },
 {
-name = vattu;
+name = vocalicl;
 position = "{472, 0}";
 }
 );
@@ -12263,11 +12263,11 @@ name = Anchor11;
 position = "{420, 622}";
 },
 {
-name = Anchor3;
+name = vattu;
 position = "{267, -60}";
 },
 {
-name = vattu;
+name = vocalicl;
 position = "{267, -60}";
 }
 );
@@ -12821,16 +12821,8 @@ name = Anchor11;
 position = "{512, 622}";
 },
 {
-name = Anchor3;
-position = "{432, 0}";
-},
-{
 name = Anchor5;
 position = "{362, -80}";
-},
-{
-name = vattu;
-position = "{432, 0}";
 },
 {
 name = ardhacandra;
@@ -12839,6 +12831,14 @@ position = "{464, 718}";
 {
 name = nukta;
 position = "{464, 718}";
+},
+{
+name = vattu;
+position = "{432, 0}";
+},
+{
+name = vocalicl;
+position = "{432, 0}";
 }
 );
 layerId = UUID0;
@@ -13013,13 +13013,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = Vattu;
-lastChange = "2022-09-16 13:05:17 +0000";
+lastChange = "2022-09-16 13:07:38 +0000";
 layers = (
 {
 anchors = (
 {
 name = _vattu;
 position = "{-207, -130}";
+},
+{
+name = vocalicl;
+position = "{-261, -344}";
 }
 );
 layerId = UUID0;
@@ -15444,11 +15448,11 @@ layers = (
 {
 anchors = (
 {
-name = Anchor3;
+name = vattu;
 position = "{267, -60}";
 },
 {
-name = vattu;
+name = vocalicl;
 position = "{267, -60}";
 }
 );
@@ -15901,16 +15905,8 @@ name = Anchor11;
 position = "{732, 622}";
 },
 {
-name = Anchor3;
-position = "{652, 0}";
-},
-{
 name = Anchor7;
 position = "{652, 120}";
-},
-{
-name = vattu;
-position = "{652, 0}";
 },
 {
 name = ardhacandra;
@@ -15919,6 +15915,14 @@ position = "{684, 718}";
 {
 name = nukta;
 position = "{684, 718}";
+},
+{
+name = vattu;
+position = "{652, 0}";
+},
+{
+name = vocalicl;
+position = "{652, 0}";
 }
 );
 layerId = UUID0;
@@ -16004,16 +16008,8 @@ name = Anchor11;
 position = "{783, 622}";
 },
 {
-name = Anchor3;
-position = "{703, 0}";
-},
-{
 name = Anchor7;
 position = "{703, 140}";
-},
-{
-name = vattu;
-position = "{703, 0}";
 },
 {
 name = ardhacandra;
@@ -16022,6 +16018,14 @@ position = "{734, 718}";
 {
 name = nukta;
 position = "{734, 718}";
+},
+{
+name = vattu;
+position = "{703, 0}";
+},
+{
+name = vocalicl;
+position = "{703, 0}";
 }
 );
 layerId = UUID0;
@@ -16150,16 +16154,8 @@ name = Anchor11;
 position = "{872, 622}";
 },
 {
-name = Anchor3;
-position = "{792, 0}";
-},
-{
 name = Anchor7;
 position = "{792, 140}";
-},
-{
-name = vattu;
-position = "{792, 0}";
 },
 {
 name = ardhacandra;
@@ -16168,6 +16164,14 @@ position = "{824, 718}";
 {
 name = nukta;
 position = "{824, 718}";
+},
+{
+name = vattu;
+position = "{792, 0}";
+},
+{
+name = vocalicl;
+position = "{792, 0}";
 }
 );
 layerId = UUID0;
@@ -16267,10 +16271,6 @@ name = Anchor11;
 position = "{635, 622}";
 },
 {
-name = Anchor3;
-position = "{566, -80}";
-},
-{
 name = Anchor5;
 position = "{541, -80}";
 },
@@ -16279,16 +16279,20 @@ name = Anchor7;
 position = "{601, 56}";
 },
 {
-name = vattu;
-position = "{541, -70}";
-},
-{
 name = ardhacandra;
 position = "{619, 718}";
 },
 {
 name = nukta;
 position = "{619, 718}";
+},
+{
+name = vattu;
+position = "{541, -70}";
+},
+{
+name = vocalicl;
+position = "{566, -80}";
 }
 );
 layerId = UUID0;
