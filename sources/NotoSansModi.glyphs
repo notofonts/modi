@@ -1,7 +1,7 @@
 {
 .appVersion = "3109";
 DisplayStrings = (
-"/Ga/VocLL_dv"
+"/Ga/Vattu/Virama/Tta/Ttha.half"
 );
 classes = (
 {
@@ -615,7 +615,7 @@ name = Anchor7;
 position = "{297, 70}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{297, -20}";
 },
 {
@@ -2857,7 +2857,7 @@ name = Anchor7;
 position = "{447, 90}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{532, -47}";
 },
 {
@@ -2971,7 +2971,7 @@ name = Anchor7;
 position = "{421, 61}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{357, -70}";
 },
 {
@@ -3070,7 +3070,7 @@ category = Letter;
 },
 {
 glyphname = Ga;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:22 +0000";
 layers = (
 {
 anchors = (
@@ -3085,6 +3085,10 @@ position = "{502, 0}";
 {
 name = Anchor7;
 position = "{503, 160}";
+},
+{
+name = vattu;
+position = "{502, 0}";
 },
 {
 name = ardhacandra;
@@ -3155,7 +3159,7 @@ category = Letter;
 },
 {
 glyphname = Gha;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -3170,6 +3174,10 @@ position = "{476, 0}";
 {
 name = Anchor7;
 position = "{476, 120}";
+},
+{
+name = vattu;
+position = "{476, 0}";
 },
 {
 name = ardhacandra;
@@ -3267,7 +3275,7 @@ name = Anchor7;
 position = "{390, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{358, -70}";
 },
 {
@@ -3375,7 +3383,7 @@ name = Anchor7;
 position = "{395, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{382, -70}";
 },
 {
@@ -3470,7 +3478,7 @@ name = Anchor7;
 position = "{383, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{353, -70}";
 },
 {
@@ -3595,7 +3603,7 @@ name = Anchor7;
 position = "{383, 52}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{365, -70}";
 },
 {
@@ -3720,7 +3728,7 @@ name = Anchor7;
 position = "{522, 90}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{608, -47}";
 },
 {
@@ -3871,7 +3879,7 @@ name = Anchor7;
 position = "{519, 90}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{615, -47}";
 },
 {
@@ -3986,7 +3994,7 @@ name = Anchor7;
 position = "{322, 57}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{277, -70}";
 },
 {
@@ -4075,7 +4083,7 @@ name = Anchor7;
 position = "{322, 57}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{277, -70}";
 },
 {
@@ -4126,7 +4134,7 @@ name = Anchor7;
 position = "{401, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{355, -70}";
 },
 {
@@ -4217,7 +4225,7 @@ name = Anchor7;
 position = "{347, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{289, -70}";
 },
 {
@@ -4294,7 +4302,7 @@ category = Letter;
 },
 {
 glyphname = Nna;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -4309,6 +4317,10 @@ position = "{561, 0}";
 {
 name = Anchor7;
 position = "{561, 120}";
+},
+{
+name = vattu;
+position = "{561, 0}";
 },
 {
 name = ardhacandra;
@@ -4390,7 +4402,7 @@ category = Letter;
 },
 {
 glyphname = Ta;
-lastChange = "2022-09-16 12:34:03 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -4409,6 +4421,10 @@ position = "{296, -80}";
 {
 name = Anchor7;
 position = "{372, 80}";
+},
+{
+name = vattu;
+position = "{372, 0}";
 },
 {
 name = ardhacandra;
@@ -4459,7 +4475,7 @@ category = Letter;
 },
 {
 glyphname = Tha;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -4469,6 +4485,10 @@ position = "{702, 622}";
 },
 {
 name = Anchor3;
+position = "{507, -80}";
+},
+{
+name = vattu;
 position = "{507, -80}";
 },
 {
@@ -4600,7 +4620,7 @@ name = Anchor7;
 position = "{374, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{331, -70}";
 },
 {
@@ -4700,7 +4720,7 @@ name = Anchor7;
 position = "{414, 55}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{374, -70}";
 },
 {
@@ -4824,7 +4844,7 @@ name = Anchor7;
 position = "{393, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{363, -70}";
 },
 {
@@ -4922,7 +4942,7 @@ name = Anchor5;
 position = "{357, -80}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{356, -79}";
 },
 {
@@ -5019,7 +5039,7 @@ name = Anchor7;
 position = "{573, 90}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{653, -50}";
 },
 {
@@ -5126,7 +5146,7 @@ category = Letter;
 },
 {
 glyphname = Ba;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -5145,6 +5165,10 @@ position = "{320, -80}";
 {
 name = Anchor7;
 position = "{356, 54}";
+},
+{
+name = vattu;
+position = "{481, 0}";
 },
 {
 name = ardhacandra;
@@ -5220,7 +5244,7 @@ category = Letter;
 },
 {
 glyphname = Bha;
-lastChange = "2022-09-16 12:48:12 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -5239,6 +5263,10 @@ position = "{449, -80}";
 {
 name = Anchor7;
 position = "{568, 120}";
+},
+{
+name = vattu;
+position = "{568, 0}";
 },
 {
 name = ardhacandra;
@@ -5333,7 +5361,7 @@ name = Anchor7;
 position = "{438, 90}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{525, -47}";
 },
 {
@@ -5440,7 +5468,7 @@ name = Anchor5;
 position = "{324, -80}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{323, -70}";
 },
 {
@@ -5539,7 +5567,7 @@ name = Anchor5;
 position = "{285, -80}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{286, -70}";
 },
 {
@@ -5618,7 +5646,7 @@ name = Anchor7;
 position = "{359, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{311, -70}";
 },
 {
@@ -5733,7 +5761,7 @@ name = Anchor7;
 position = "{356, 56}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{333, -70}";
 },
 {
@@ -5809,7 +5837,7 @@ category = Letter;
 },
 {
 glyphname = Sha;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -5828,6 +5856,10 @@ position = "{303, -80}";
 {
 name = Anchor7;
 position = "{446, 55}";
+},
+{
+name = vattu;
+position = "{446, 0}";
 },
 {
 name = ardhacandra;
@@ -5897,7 +5929,7 @@ category = Letter;
 },
 {
 glyphname = Ssa;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -5912,6 +5944,10 @@ position = "{427, 0}";
 {
 name = Anchor7;
 position = "{427, 140}";
+},
+{
+name = vattu;
+position = "{427, 0}";
 },
 {
 name = ardhacandra;
@@ -5995,7 +6031,7 @@ name = Anchor7;
 position = "{359, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{323, -70}";
 },
 {
@@ -6104,7 +6140,7 @@ name = Anchor7;
 position = "{335, 54}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{312, -70}";
 },
 {
@@ -6190,7 +6226,7 @@ name = Anchor7;
 position = "{575, 50}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{391, -80}";
 },
 {
@@ -7916,7 +7952,7 @@ category = Letter;
 },
 {
 glyphname = Tha.alt;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -7931,6 +7967,10 @@ position = "{472, 0}";
 {
 name = Anchor7;
 position = "{354, 177}";
+},
+{
+name = vattu;
+position = "{472, 0}";
 },
 {
 name = ardhacandra;
@@ -8042,7 +8082,7 @@ name = Anchor7;
 position = "{362, 60}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{306, -70}";
 },
 {
@@ -8147,7 +8187,7 @@ name = Anchor7;
 position = "{407, 59}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{351, -70}";
 },
 {
@@ -8239,7 +8279,7 @@ category = Letter;
 },
 {
 glyphname = Pa.alt;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -8254,6 +8294,10 @@ position = "{427, 0}";
 {
 name = Anchor7;
 position = "{321, 215}";
+},
+{
+name = vattu;
+position = "{427, 0}";
 },
 {
 name = ardhacandra;
@@ -8308,7 +8352,7 @@ category = Letter;
 },
 {
 glyphname = Ma.alt;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -8323,6 +8367,10 @@ position = "{427, 0}";
 {
 name = Anchor7;
 position = "{427, 213}";
+},
+{
+name = vattu;
+position = "{427, 0}";
 },
 {
 name = ardhacandra;
@@ -8379,7 +8427,7 @@ category = Letter;
 },
 {
 glyphname = Ya.alt;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -8394,6 +8442,10 @@ position = "{432, 0}";
 {
 name = Anchor7;
 position = "{324, 185}";
+},
+{
+name = vattu;
+position = "{432, 0}";
 },
 {
 name = ardhacandra;
@@ -8458,7 +8510,7 @@ category = Letter;
 },
 {
 glyphname = Ra.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -8473,6 +8525,10 @@ position = "{357, 0}";
 {
 name = Anchor7;
 position = "{357, 213}";
+},
+{
+name = vattu;
+position = "{357, 0}";
 }
 );
 layerId = UUID0;
@@ -8512,7 +8568,7 @@ category = Letter;
 },
 {
 glyphname = Dha.alt2;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -8522,6 +8578,10 @@ position = "{552, 622}";
 },
 {
 name = Anchor3;
+position = "{472, 0}";
+},
+{
+name = vattu;
 position = "{472, 0}";
 }
 );
@@ -12194,7 +12254,7 @@ category = Letter;
 },
 {
 glyphname = La.alt;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -12204,6 +12264,10 @@ position = "{420, 622}";
 },
 {
 name = Anchor3;
+position = "{267, -60}";
+},
+{
+name = vattu;
 position = "{267, -60}";
 }
 );
@@ -12748,7 +12812,7 @@ category = Letter;
 },
 {
 glyphname = TRa;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -12763,6 +12827,10 @@ position = "{432, 0}";
 {
 name = Anchor5;
 position = "{362, -80}";
+},
+{
+name = vattu;
+position = "{432, 0}";
 },
 {
 name = ardhacandra;
@@ -12945,16 +13013,12 @@ subCategory = Nonspacing;
 },
 {
 glyphname = Vattu;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:05:17 +0000";
 layers = (
 {
 anchors = (
 {
-name = _Anchor3;
-position = "{-247, -80}";
-},
-{
-name = _Anchor9;
+name = _vattu;
 position = "{-207, -130}";
 }
 );
@@ -15375,12 +15439,16 @@ category = Letter;
 },
 {
 glyphname = La.half;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor3;
+position = "{267, -60}";
+},
+{
+name = vattu;
 position = "{267, -60}";
 }
 );
@@ -15824,7 +15892,7 @@ category = Letter;
 },
 {
 glyphname = TYa;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -15839,6 +15907,10 @@ position = "{652, 0}";
 {
 name = Anchor7;
 position = "{652, 120}";
+},
+{
+name = vattu;
+position = "{652, 0}";
 },
 {
 name = ardhacandra;
@@ -15923,7 +15995,7 @@ category = Letter;
 },
 {
 glyphname = STha;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -15938,6 +16010,10 @@ position = "{703, 0}";
 {
 name = Anchor7;
 position = "{703, 140}";
+},
+{
+name = vattu;
+position = "{703, 0}";
 },
 {
 name = ardhacandra;
@@ -16065,7 +16141,7 @@ category = Letter;
 },
 {
 glyphname = DYa;
-lastChange = "2022-09-16 12:24:33 +0000";
+lastChange = "2022-09-16 13:05:06 +0000";
 layers = (
 {
 anchors = (
@@ -16080,6 +16156,10 @@ position = "{792, 0}";
 {
 name = Anchor7;
 position = "{792, 140}";
+},
+{
+name = vattu;
+position = "{792, 0}";
 },
 {
 name = ardhacandra;
@@ -16199,7 +16279,7 @@ name = Anchor7;
 position = "{601, 56}";
 },
 {
-name = Anchor9;
+name = vattu;
 position = "{541, -70}";
 },
 {
