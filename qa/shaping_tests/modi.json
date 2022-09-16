@@ -85,13 +85,13 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Ma=0+646|Repha=0@3,4+0|Ardhacandra=0@-96,-55+0",
+            "expectation": "Ma=0+646|Repha=0@3,4+0|Ardhacandra=0@-269,192+0",
             "input": "𑘨𑘿𑘦𑙀",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "uni25CC=0+594|II_dv=0+326|Ra.alt5=1+0|AI_dv=1+0|Ardhacandra=1@-17,46+0",
+            "expectation": "uni25CC=0+594|II_dv=0+326|Ra.alt5=1+0|AI_dv=1+0|Ardhacandra=1@-220,188+0",
             "input": "𑘲𑘨𑘺𑙀",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
@@ -109,7 +109,7 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Ga=0+662|Rakar=0@-118,200+0|II_dv=0+326|uni25CC=0+594|Ardhacandra=0@-297,-38+0|Ha.half=5+633|Tha.alt=7+632|AA_dv=7+240|Tha=9+834|VocRR_dv=9@-164,-30+0",
+            "expectation": "Ga=0+662|Rakar=0@-118,200+0|II_dv=0+326|uni25CC=0+594|Ardhacandra=0@-268,-43+0|Ha.half=5+633|Tha.alt=7+632|AA_dv=7+240|Tha=9+834|VocRR_dv=9@-164,-30+0",
             "input": "𑘐𑘿𑘨𑘲𑙀𑘮𑘿𑘞𑘰𑘞𑘶",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
@@ -229,7 +229,7 @@
             "only": "NotoSansModi-Regular.ttf"
         },
         {
-            "expectation": "Kha=0+694|VocR_dv=0@-194,-30+0|TRa=2+592|AI_dv=2@-80,5+0|Ardhacandra=2@-97,51+0",
+            "expectation": "Kha=0+694|VocR_dv=0@-194,-30+0|TRa=2+592|AI_dv=2@-80,5+0|Ardhacandra=2@-300,193+0",
             "input": "𑘏𑘵𑘝𑘿𑘨𑘺𑙀",
             "note": "Added by SIESTA",
             "only": "NotoSansModi-Regular.ttf"
