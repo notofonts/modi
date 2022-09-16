@@ -1,7 +1,7 @@
 {
 .appVersion = "3109";
 DisplayStrings = (
-"/Repha/Nyaa"
+"/Ga/VocLL_dv"
 );
 classes = (
 {
@@ -6683,17 +6683,13 @@ subCategory = Nonspacing;
 },
 {
 glyphname = VocL_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:02:02 +0000";
 layers = (
 {
 anchors = (
 {
 name = _Anchor3;
 position = "{-146, -50}";
-},
-{
-name = _Anchor5;
-position = "{-202, -50}";
 }
 );
 layerId = UUID0;
@@ -6764,17 +6760,13 @@ subCategory = Nonspacing;
 },
 {
 glyphname = VocLL_dv;
-lastChange = "2021-02-25 22:10:16 +0000";
+lastChange = "2022-09-16 13:02:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = _Anchor3;
 position = "{-146, -50}";
-},
-{
-name = _Anchor5;
-position = "{-201, -50}";
 }
 );
 layerId = UUID0;
