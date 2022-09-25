@@ -1,7 +1,7 @@
 {
 .appVersion = "3109";
 DisplayStrings = (
-"/Ga/Vattu/Virama/Tta/Ttha.half/space/space/Vattu"
+"/II_dv/Ja"
 );
 classes = (
 {
@@ -16878,29 +16878,6 @@ UUID0 = 1;
 name = Regular;
 }
 );
-kerning = {
-UUID0 = {
-Dda.alt = {
-U.alt4 = 0;
-UU.alt3 = 0;
-};
-Ddha = {
-I.med = 0;
-II.med = 0;
-};
-II_dv = {
-Dda = 0;
-Ja = 65;
-};
-Ja = {
-II_dv = 0;
-I_dv = 0;
-};
-Na = {
-I_dv = 0;
-};
-};
-};
 manufacturer = "Monotype Imaging Inc.";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 1000;
