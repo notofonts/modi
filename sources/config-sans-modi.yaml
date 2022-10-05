@@ -4,5 +4,9 @@ googleFonts: true
 includeSubsets:
 - from: Noto Sans
   name: GF_Latin_Core
+- from: Noto Sans Devanagari
+  ranges:
+    - start: 0x093D
+      end: 0x093D
 sources:
 - NotoSansModi.glyphs
