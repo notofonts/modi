@@ -1,5 +1,5 @@
 {
-.appVersion = "3109";
+.appVersion = "3180";
 DisplayStrings = (
 "/II_dv/Ja"
 );
@@ -361,12 +361,12 @@ code = "lookup DecomposeAOU {\012  sub [La @class5 Ma Ya]  [O_dv AU_dv]' lookup 
 name = ChainedContextualGSUB6;
 },
 {
-code = "lookup OtherConjuncts {\012    sub Ka Ra by KaRa;\012    sub Ta Virama Ra by TRa;\012    sub Kaa Ra by KaaRa;\012    sub Ta.half Ya.alt by TYa;\012    sub Sa.half Tha.alt by STha;\012    sub Ka.half Ssa.half Ya.alt by KSsYa;\012    sub Ka.half Ssa by KSsa;\012    sub Ka.half Ssa.half by KSsa.half;\012    sub Ssa.half Ddha by SsDdha;\012    sub Da.half Na U.alt3 by DNu;\012    sub Da.half Na by DNa;\012    sub Da.half Naa by DNaa;\012    sub Da.half Ya.alt by DYa;\012} OtherConjuncts;\012";
+code = "lookup OtherConjuncts {\012    sub Ka Ra by KaRa;\012    sub Ta Virama Ra by TRa;\012    sub Kaa Ra by KaaRa;\012    sub Ta.half Ya.alt by TYa;\012    sub Sa.half Tha.alt by STha;\012    sub Ka.half Ssa.half Ya.alt by KSsYa;\012    sub Ka.half Ssa by KSsa;\012    sub Ka.half Ssa.half by KSsa.half;\012    sub Ssa.half Ddha by SsDdha;\012    sub Da.half Nu by DNu;\012    sub Da.half Na by DNa;\012    sub Da.half Naa by DNaa;\012    sub Da.half Ya.alt by DYa;\012} OtherConjuncts;\012";
 name = OtherConjuncts;
 },
 {
-code = "lookup FormVattu {\012    sub Virama Ra by Vattu;\012} FormVattu;\012\012lookup ChainedContextualGSUB12 {\012    lookupflag MarkAttachmentType @markAttachmentSet1;\012    sub Ra' Virama' uni200D' by EyelashRa;\012    sub Ka' lookup OtherConjuncts Ra';\012    sub @class13 Ra' lookup Alt3;\012    sub [AA_dv I_dv O_dv] Ra' lookup Alt3;\012    sub @class14 Ra' lookup Alt4;\012    sub @class14 [AA_dv I_dv O_dv] Ra' lookup Alt4;\012    sub Sa Ra' lookup Alt2;\012    sub [Danda DblDanda] Ra' by Ra.alt6;\012    sub [U_dv UU_dv]' lookup VowelConjuncts Ra';\012    sub Ka' lookup OtherConjuncts Virama' Saa';\012    sub Ta' lookup OtherConjuncts Virama' Ra';\012    sub [Pa Ma Ya]' lookup AlternateForms Virama' Ra' lookup FormVattu;\012    sub Da.half' lookup OtherConjuncts Na';\012} ChainedContextualGSUB12;\012";
-name = ChainedContextualGSUB12;
+code = "lookup FormVattu {\012    sub Virama Ra by Vattu;\012} FormVattu;\012";
+name = FormVattu;
 },
 {
 code = "lookup ContextualGSUB13 {\012    lookupflag MarkAttachmentType @markAttachmentSet1;\012    ;\012    # Original source: 12 \012    sub @class16' lookup OtherConjuncts @class16' @class18';\012    sub @class16' lookup OtherConjuncts @class18' [AA_dv UU_dv]';\012    sub @class16' lookup OtherConjuncts @class16';\012    sub @class16' lookup OtherConjuncts @class18';\012    sub @class16' lookup OtherConjuncts Ra';\012} ContextualGSUB13;\012";
@@ -391,7 +391,7 @@ code = "@bases = [@consonants @IndependentVowels]; # Anything else?\012\012looku
 name = half;
 },
 {
-code = "    lookup ChainedContextualGSUB12;\012";
+code = "    lookupflag MarkAttachmentType @markAttachmentSet1;\012    sub Ra' Virama' uni200D' by EyelashRa;\012    sub Ka' lookup OtherConjuncts Ra';\012    sub @class13 Ra' lookup Alt3;\012    sub [AA_dv I_dv O_dv] Ra' lookup Alt3;\012    sub @class14 Ra' lookup Alt4;\012    sub @class14 [AA_dv I_dv O_dv] Ra' lookup Alt4;\012    sub Sa Ra' lookup Alt2;\012    sub [Danda DblDanda] Ra' by Ra.alt6;\012    sub [U_dv UU_dv]' lookup VowelConjuncts Ra';\012    sub Ka' lookup OtherConjuncts Virama' Saa';\012    sub Ta' lookup OtherConjuncts Virama' Ra';\012    sub [Pa Ma Ya]' lookup AlternateForms Virama' Ra' lookup FormVattu;\012    sub Da.half' lookup OtherConjuncts [Na Naa Nu]';\012";
 name = pres;
 },
 {
