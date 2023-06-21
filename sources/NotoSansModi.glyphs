@@ -377,7 +377,7 @@ code = "lookup FormRakar { sub Virama Ra by Rakar; } FormRakar;\012\012lookup Ch
 name = ChainedContextualGSUB22;
 },
 {
-code = "languagesystem modi dflt;\012";
+code = "languagesystem DFLT dflt;\012languagesystem modi dflt;\012";
 name = Languagesystems;
 }
 );
